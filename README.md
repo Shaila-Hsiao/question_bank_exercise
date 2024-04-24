@@ -27,4 +27,9 @@ python app.py
   - 成功開啟的畫面
     ![image](https://github.com/Shaila-Hsiao/question_bank_exercise/assets/105621058/49d35369-a5ef-423a-aa34-7c30ad84e2de)
 
-
+## fix
+- Json格式篩選題目有問題
+- 有返回鍵:
+  - 返回選擇章節頁面重新選擇章節
+  - 返回上一題
+- 紀錄練習過的題目
