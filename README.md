@@ -26,6 +26,8 @@ python app.py
      ![image](https://github.com/Shaila-Hsiao/question_bank_exercise/assets/105621058/b425d7b5-3952-442d-bb86-9a11a504d31d)
   - 成功開啟的畫面
     ![image](https://github.com/Shaila-Hsiao/question_bank_exercise/assets/105621058/49d35369-a5ef-423a-aa34-7c30ad84e2de)
+    ![image](https://github.com/Shaila-Hsiao/question_bank_exercise/assets/105621058/f147679b-5297-424e-b591-2a4f308677bb)
+    ![1713976025049](https://github.com/Shaila-Hsiao/question_bank_exercise/assets/105621058/3c736115-5d1c-49e0-be7a-269674065e78)
 
 ## fix
 - Json格式篩選題目有問題
