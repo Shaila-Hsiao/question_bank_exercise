@@ -1,5 +1,8 @@
 eel.expose(renderQuestion);
 function renderQuestion(question) {
+    var chapter = JSON.parse(sessionStorage.getItem('currentChapter'));
+    const questionChapter =  document.getElementById('questionsChapter');
+    questionChapter.innerHTML="<h2>你正在練習第"+chapter+"章<h2>"
     const container = document.getElementById('questionsContainer');
     const question_str = `<h2>${question.question_number}</h2><p>${question.description}</p>`;
     const option_str = option_to_str(question);

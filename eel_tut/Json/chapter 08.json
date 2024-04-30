@@ -1,8 +1,8 @@
 [
     {
         "chapter": "8",
-        "question_number": "1)",
-        "description": "On Alicia's first day of work at a software firm, she attended a meeting with the HR manager\nand other new employees. Alicia learned about employee benefits packages, personnel policies,\nand the structure of the company. In which of the following did Alicia most likely participate?",
+        "question_number": "1",
+        "description": "and other new employees. Alicia learned about employee benefits packages, personnel policies, and the structure of the company. In which of the following did Alicia most likely participate? background information (such as computer passwords and company rules) they need to do their jobs; ideally it should also help them start becoming emotionally attached to and engaged in the firm.",
         "options": {
             "A": "recruitment",
             "B": "selection",
@@ -10,12 +10,12 @@
             "D": "employee development"
         },
         "answer": "C",
-        "explanation": "C) Employee orientation or onboarding provides new employees with the basic\nbackground information (such as computer passwords and company rules) they need to do their\njobs; ideally it should also help them start becoming emotionally attached to and engaged in the\nfirm."
+        "explanation": "C) Employee orientation or onboarding provides new employees with the basic"
     },
     {
         "chapter": "8",
-        "question_number": "2)",
-        "description": "Which of the following terms refers to helping new employees appreciate the values and\nculture of a firm?",
+        "question_number": "2",
+        "description": "culture of a firm? providing new employees with the information they need to function. Onboarding also tries to help new employees understand a firm's values and culture.",
         "options": {
             "A": "onboarding",
             "B": "outsourcing",
@@ -23,12 +23,12 @@
             "D": "offshoring"
         },
         "answer": "A",
-        "explanation": "A) Onboarding is synonymous with employee orientation, which involves\nproviding new employees with the information they need to function. Onboarding also tries to\nhelp new employees understand a firm's values and culture."
+        "explanation": "A) Onboarding is synonymous with employee orientation, which involves"
     },
     {
         "chapter": "8",
-        "question_number": "3)",
-        "description": "Which of the following is most likely NOT one of the goals of a firm's employee orientation\nprogram?",
+        "question_number": "3",
+        "description": "program? and at home and part of the team, make sure the new employee has the basic information to function effectively, help the new employee understand the organization in a broad sense, and start the person on the process of becoming socialized into the firm's culture, values, and ways of doing things. It is less likely that the firm would help employees join a labor union.",
         "options": {
             "A": "making new employees feel like part of a team",
             "B": "helping new employees become socialized into the firm",
@@ -36,12 +36,12 @@
             "D": "teaching new employees about the firm's history and strategies"
         },
         "answer": "C",
-        "explanation": "C) During employee orientation, firms try to make the new employee feel welcome\nand at home and part of the team, make sure the new employee has the basic information to\nfunction effectively, help the new employee understand the organization in a broad sense, and\nstart the person on the process of becoming socialized into the firm's culture, values, and ways of\ndoing things. It is less likely that the firm would help employees join a labor union."
+        "explanation": "C) During employee orientation, firms try to make the new employee feel welcome"
     },
     {
         "chapter": "8",
-        "question_number": "4)",
-        "description": "All of the following topics are typically addressed during employee orientation EXCEPT\n________.",
+        "question_number": "4",
+        "description": "________. average wage paid for the job. It is unlikely that wage curves would be addressed during orientation..",
         "options": {
             "A": "employee benefits",
             "B": "personnel policies",
@@ -49,12 +49,12 @@
             "D": "wage curves"
         },
         "answer": "D",
-        "explanation": "D) A wage curve is the graphic relationship between the value of the job and the\naverage wage paid for the job. It is unlikely that wage curves would be addressed during\norientation.."
+        "explanation": "D) A wage curve is the graphic relationship between the value of the job and the"
     },
     {
         "chapter": "8",
-        "question_number": "5)",
-        "description": "Employee orientation programs range from brief, informal introductions to lengthy, formal\ncourses.\nAnswer: TRUE\nExplanation: The length of the employee orientation process depends on the firm and the job. In\nsome cases, onboarding-type programs may take many days, while in other cases, orientation\nconsists of showing someone around and making introductions.\nDifficulty: Easy\nChapter: 8\nObjective: 1\nAACSB: Analytical Thinking\nLearning Outcome: 8.1 Summarize the purpose and process of employee orientation.\n2\nCopyright © 2017 Pearson Education, Inc.\n\n6) Hiring highly-skilled employees with great potential eliminates the need to provide orientation\nand training.\nAnswer: FALSE\nExplanation: Having high-potential employees doesn't guarantee they'll succeed. Instead, they\nmust know what you want them to do and how you want them to do it. If they don't, they will\nimprovise or do nothing useful at all.\nDifficulty: Moderate\nChapter: 8\nObjective: 1\nAACSB: Analytical Thinking\nLearning Outcome: 8.1 Summarize the purpose and process of employee orientation.\n7) What is the purpose of employee orientation? What role does training play in employee\norientation?\nAnswer: New employees should feel welcome and at ease. New employees should understand\nthe organization in a broad sense including its past, present, culture, and vision for the future.\nThey should be clear about what is expected in terms of work and behavior. They should have\nbegun the socialization process into the firm's way of doing things. Directly after orientation,\ntraining should begin. Training means giving new or current employees the skills they need to\nperform their jobs.\nDifficulty: Hard\nChapter: 8\nObjective: 1\nAACSB: Analytical Thinking\nLearning Outcome: 8.1 Summarize the purpose and process of employee orientation.\n8) The methods used to give new or present employees the skills they need to perform their jobs\nare called ________.",
+        "question_number": "8",
+        "description": "are called ________. their jobs. Training is essential to good management.",
         "options": {
             "A": "orientation",
             "B": "training",
@@ -62,12 +62,12 @@
             "D": "management"
         },
         "answer": "B",
-        "explanation": "B) Training means giving new or current employees the skills they need to perform\ntheir jobs. Training is essential to good management."
+        "explanation": "B) Training means giving new or current employees the skills they need to perform"
     },
     {
         "chapter": "8",
-        "question_number": "9)",
-        "description": "MTR Enterprises failed to provide adequate safety training to one of its employees. As a\nresult, the employee harmed a customer. A court would most likely find MTR liable for\n________.",
+        "question_number": "9",
+        "description": "result, the employee harmed a customer. A court would most likely find MTR liable for ________. employer fails to train adequately and an employee harms a third party, it is likely that the court will find the employer liable.",
         "options": {
             "A": "discrimination",
             "B": "negligent training",
@@ -75,12 +75,12 @@
             "D": "hazardous training"
         },
         "answer": "B",
-        "explanation": "B) Inadequate training can expose employers to negligent training liability. If an\nemployer fails to train adequately and an employee harms a third party, it is likely that the court\nwill find the employer liable."
+        "explanation": "B) Inadequate training can expose employers to negligent training liability. If an"
     },
     {
         "chapter": "8",
-        "question_number": "10)",
-        "description": "Which of the following will most likely NOT help employers protect themselves against\ncharges of negligent training?",
+        "question_number": "10",
+        "description": "charges of negligent training? experience, provide adequate training (particularly where employees use dangerous equipment), and evaluate the training to ensure that it's actually reducing risks. Paying employees for training will not necessarily protect an employer.",
         "options": {
             "A": "confirming an employee's claims of skill and experience",
             "B": "providing extensive and appropriate training",
@@ -88,12 +88,12 @@
             "D": "paying employees for their training time"
         },
         "answer": "D",
-        "explanation": "D) Employers should confirm the applicant/employee's claims of skill and\nexperience, provide adequate training (particularly where employees use dangerous equipment),\nand evaluate the training to ensure that it's actually reducing risks. Paying employees for training\nwill not necessarily protect an employer."
+        "explanation": "D) Employers should confirm the applicant/employee's claims of skill and"
     },
     {
         "chapter": "8",
-        "question_number": "11)",
-        "description": "________ identifies the training employees will need to fill future jobs.",
+        "question_number": "11",
+        "description": "often mean the firm will have to fill new jobs. Strategic training needs analysis identifies the training employees will need to fill these future jobs.",
         "options": {
             "A": "Competency modeling",
             "B": "Performance analysis",
@@ -101,12 +101,12 @@
             "D": "Screening"
         },
         "answer": "C",
-        "explanation": "C) Strategic goals (perhaps to enter new lines of business or to expand abroad)\noften mean the firm will have to fill new jobs. Strategic training needs analysis identifies the\ntraining employees will need to fill these future jobs."
+        "explanation": "C) Strategic goals (perhaps to enter new lines of business or to expand abroad)"
     },
     {
         "chapter": "8",
-        "question_number": "12)",
-        "description": "What is the first step in the ADDIE training process?",
+        "question_number": "12",
+        "description": "implement-evaluate (ADDIE) training process model that training experts have used for years. The first step is to analyze the training need.",
         "options": {
             "A": "assessing the program's successes",
             "B": "appraising the program's budget",
@@ -114,12 +114,12 @@
             "D": "acquiring training materials"
         },
         "answer": "C",
-        "explanation": "C) The gold standard of training programs is the basic analysis-design-develop-\nimplement-evaluate (ADDIE) training process model that training experts have used for years."
+        "explanation": "C) The gold standard of training programs is the basic analysis-design-develop-"
     },
     {
         "chapter": "8",
-        "question_number": "13)",
-        "description": "What is the second step in the ADDIE training process?",
+        "question_number": "13",
+        "description": "process model has been used by training experts for years. The second step of the process is designing the overall training program.",
         "options": {
             "A": "developing training aids",
             "B": "defining the training objectives",
@@ -127,12 +127,12 @@
             "D": "designating employees who need training"
         },
         "answer": "C",
-        "explanation": "C) The basic analysis-design-develop-implement-evaluate (ADDIE) training\nprocess model has been used by training experts for years. The second step of the process is\ndesigning the overall training program."
+        "explanation": "C) The basic analysis-design-develop-implement-evaluate (ADDIE) training"
     },
     {
         "chapter": "8",
-        "question_number": "14)",
-        "description": "Which of the following will most likely occur during the third step of the ADDIE training\nprocess?",
+        "question_number": "14",
+        "description": "process? process model has been used by training experts for years. The third step, developing the course, involves assembling and creating the training materials.",
         "options": {
             "A": "training a targeted group",
             "B": "creating training materials",
@@ -140,12 +140,12 @@
             "D": "estimating a budget for the training program"
         },
         "answer": "B",
-        "explanation": "B) The basic analysis-design-develop-implement-evaluate (ADDIE) training\nprocess model has been used by training experts for years. The third step, developing the course,\ninvolves assembling and creating the training materials."
+        "explanation": "B) The basic analysis-design-develop-implement-evaluate (ADDIE) training"
     },
     {
         "chapter": "8",
-        "question_number": "15)",
-        "description": "Which of the following would most likely occur during the fourth step of the ADDIE\ntraining process?",
+        "question_number": "15",
+        "description": "training process? process model has been used by training experts for years. The fourth step involves providing the training to a targeted employee group. Training methods vary but may include on-the-job training or online training.",
         "options": {
             "A": "holding on-the-job training sessions",
             "B": "selecting employees for training",
@@ -153,12 +153,12 @@
             "D": "asking participants for feedback"
         },
         "answer": "A",
-        "explanation": "A) The basic analysis-design-develop-implement-evaluate (ADDIE) training\nprocess model has been used by training experts for years. The fourth step involves providing the\ntraining to a targeted employee group. Training methods vary but may include on-the-job\ntraining or online training."
+        "explanation": "A) The basic analysis-design-develop-implement-evaluate (ADDIE) training"
     },
     {
         "chapter": "8",
-        "question_number": "16)",
-        "description": "What is the final step in the ADDIE training process?",
+        "question_number": "16",
+        "description": "complete, employees are often rewarded for using new skills, but not during the training process.",
         "options": {
             "A": "evaluating the program's successes or failures",
             "B": "rewarding employees for program participation",
@@ -166,12 +166,12 @@
             "D": "training the targeted group of employees"
         },
         "answer": "A",
-        "explanation": "A) Evaluating the program is the final step in the training process. After training is\ncomplete, employees are often rewarded for using new skills, but not during the training process."
+        "explanation": "A) Evaluating the program is the final step in the training process. After training is"
     },
     {
         "chapter": "8",
-        "question_number": "17)",
-        "description": "James, an HR manager, is currently identifying the specific knowledge and skills required for\na telemarketing position at Newman Enterprises. James is most likely involved in which of the\nfollowing?",
+        "question_number": "17",
+        "description": "a telemarketing position at Newman Enterprises. James is most likely involved in which of the following? like Java (in the case of a Web developer) or interviewing (in the case of a supervisor)\u2014the job requires.",
         "options": {
             "A": "task analysis",
             "B": "program evaluation",
@@ -179,12 +179,12 @@
             "D": "screening"
         },
         "answer": "A",
-        "explanation": "A) Task analysis is a detailed study of the job to determine what specific skills—\nlike Java (in the case of a Web developer) or interviewing (in the case of a supervisor)—the job\nrequires."
+        "explanation": "A) Task analysis is a detailed study of the job to determine what specific skills\u2014"
     },
     {
         "chapter": "8",
-        "question_number": "18)",
-        "description": "Amy, an accounting supervisor, has been asked to provide training for her subordinates about\nnew tax laws. In order to motivate the individuals who attend her training session, Amy should\nmost likely do all of the following EXCEPT ________.",
+        "question_number": "18",
+        "description": "new tax laws. In order to motivate the individuals who attend her training session, Amy should most likely do all of the following EXCEPT ________. organizing information in logical, meaningful units will likely motivate employees. Terms and concepts used during a training session should be familiar to trainees rather than unfamiliar.",
         "options": {
             "A": "use as many visual aids as possible during the session",
             "B": "provide an overview of the material to be covered",
@@ -192,12 +192,12 @@
             "D": "give information in logical, meaningful sections"
         },
         "answer": "C",
-        "explanation": "C) Using visual aids, providing an overview at the beginning of the session, and\norganizing information in logical, meaningful units will likely motivate employees. Terms and\nconcepts used during a training session should be familiar to trainees rather than unfamiliar."
+        "explanation": "C) Using visual aids, providing an overview at the beginning of the session, and"
     },
     {
         "chapter": "8",
-        "question_number": "19)",
-        "description": "Trainees should be provided adequate practice and be allowed to work at their own pace\nduring a training session in order to ________.",
+        "question_number": "19",
+        "description": "during a training session in order to ________. maximizing the similarity between the training situation and the work situation are all techniques that enable trainees to transfer new skills from the training site to the work site.",
         "options": {
             "A": "screen applicants based on ability",
             "B": "transfer skills more easily to the job",
@@ -205,12 +205,12 @@
             "D": "determine appropriate pay scales"
         },
         "answer": "B",
-        "explanation": "B) Allowing trainees to work at their own pace, providing adequate practice, and\nmaximizing the similarity between the training situation and the work situation are all techniques\nthat enable trainees to transfer new skills from the training site to the work site."
+        "explanation": "B) Allowing trainees to work at their own pace, providing adequate practice, and"
     },
     {
         "chapter": "8",
-        "question_number": "20)",
-        "description": "________ is a detailed study of the job to determine what specific skills the job requires.",
+        "question_number": "20",
+        "description": "job requires. Job descriptions and job specifications are important here because they list the job's specific duties and skills, which are the basic reference points in determining the training required.",
         "options": {
             "A": "Needs analysis",
             "B": "Task analysis",
@@ -218,12 +218,12 @@
             "D": "Development planning"
         },
         "answer": "B",
-        "explanation": "B) Task analysis is a detailed study of the job to determine what specific skills the\njob requires. Job descriptions and job specifications are important here because they list the job's\nspecific duties and skills, which are the basic reference points in determining the training\nrequired."
+        "explanation": "B) Task analysis is a detailed study of the job to determine what specific skills the"
     },
     {
         "chapter": "8",
-        "question_number": "21)",
-        "description": "Which of the following consolidates information regarding required tasks and skills in a\nformat that is helpful for determining training requirements?",
+        "question_number": "21",
+        "description": "format that is helpful for determining training requirements? analysis record form. This consolidates information regarding required tasks and skills in a form that's especially helpful for determining training requirements.",
         "options": {
             "A": "training assessment form",
             "B": "task analysis record form",
@@ -231,12 +231,12 @@
             "D": "work function analysis"
         },
         "answer": "B",
-        "explanation": "B) Some managers supplement the job description and specification with a task\nanalysis record form. This consolidates information regarding required tasks and skills in a form\nthat's especially helpful for determining training requirements."
+        "explanation": "B) Some managers supplement the job description and specification with a task"
     },
     {
         "chapter": "8",
-        "question_number": "22)",
-        "description": "Employers will most likely use all of the following methods to identify training needs for\nnew employees EXCEPT ________.",
+        "question_number": "22",
+        "description": "new employees EXCEPT ________. be used to identify training needs. Managers can uncover training needs by reviewing performance standards, assessing job descriptions, performing the job, and questioning current job holders and their supervisors.",
         "options": {
             "A": "analyzing job descriptions",
             "B": "reviewing performance standards",
@@ -244,12 +244,12 @@
             "D": "conducting a work sampling"
         },
         "answer": "D",
-        "explanation": "D) Work sampling is a method used for screening job applicants and will not likely\nbe used to identify training needs. Managers can uncover training needs by reviewing\nperformance standards, assessing job descriptions, performing the job, and questioning current\njob holders and their supervisors."
+        "explanation": "D) Work sampling is a method used for screening job applicants and will not likely"
     },
     {
         "chapter": "8",
-        "question_number": "23)",
-        "description": "A graphic model that presents a precise overview of the knowledge, skills, and behaviors\nsomeone would need to perform a job well is known as a(n) ________.",
+        "question_number": "23",
+        "description": "someone would need to perform a job well is known as a(n) ________. overview of the competencies (for example, in terms of knowledge, skills, and behaviors) someone would need to do a job well.",
         "options": {
             "A": "scatter plot",
             "B": "competency model",
@@ -257,12 +257,12 @@
             "D": "organizational chart"
         },
         "answer": "B",
-        "explanation": "B) The competency model consolidates, usually in one diagram, a precise\noverview of the competencies (for example, in terms of knowledge, skills, and behaviors)\nsomeone would need to do a job well."
+        "explanation": "B) The competency model consolidates, usually in one diagram, a precise"
     },
     {
         "chapter": "8",
-        "question_number": "24)",
-        "description": "The process of verifying that there is a performance deficiency and determining if such\ndeficiencies should be corrected through training or through some other means is called\n________.",
+        "question_number": "24",
+        "description": "deficiencies should be corrected through training or through some other means is called ________. deficiency and determining whether the employer should correct such deficiencies through training or some other means (like transferring the employee).",
         "options": {
             "A": "needs analysis",
             "B": "training assessment",
@@ -270,38 +270,38 @@
             "D": "performance appraisal"
         },
         "answer": "C",
-        "explanation": "C) Performance analysis is the process of verifying that there is a performance\ndeficiency and determining whether the employer should correct such deficiencies through\ntraining or some other means (like transferring the employee)."
+        "explanation": "C) Performance analysis is the process of verifying that there is a performance"
     },
     {
         "chapter": "8",
-        "question_number": "25)",
-        "description": "Mark Caffrey, vice president of sales at Samson Pharmaceuticals, manages a sales team of\nten employees. Members of Mark's sales force vary in experience level. Four members of the\nsales team have worked at Samson for less than one year. The other six salespeople have been\nwith Samson anywhere from three to seven years. Mark recently received the annual sales report\nand noticed that sales have been dropping steadily over the last year. Mark is considering the\nidea of providing training to his sales team as a way to boost sales.\nWhich of the following best supports the argument that the drop in Samson's sales can be solved\nthrough training?",
+        "question_number": "25",
+        "description": "ten employees. Members of Mark's sales force vary in experience level. Four members of the sales team have worked at Samson for less than one year. The other six salespeople have been with Samson anywhere from three to seven years. Mark recently received the annual sales report and noticed that sales have been dropping steadily over the last year. Mark is considering the idea of providing training to his sales team as a way to boost sales. Which of the following best supports the argument that the drop in Samson's sales can be solved through training? bonuses has angered many employees. dropping as more people are choosing to use generic drugs instead. through online job sites. side effects of the latest medications released by Samson. latest drugs, then it is most likely unable to sell the products effectively. Training would provide salespeople with the necessary information. Poor attitudes suggest that the sales team doesn't want to sell products, which is not an issue that can be corrected with training.",
         "options": {
-            "A": "Attitude surveys sent to Samson personnel suggest that the firm's elimination of year-end\nbonuses has angered many employees.",
-            "B": "Recent studies suggest that sales of name-brand pharmaceuticals, such as Samson, are\ndropping as more people are choosing to use generic drugs instead.",
-            "C": "The rising costs associated with college recruiting have forced Samson to hire sales associates\nthrough online job sites.",
-            "D": "Members of the sales team have expressed that they do not fully understand the benefits and\nside effects of the latest medications released by Samson."
+            "A": "Attitude surveys sent to Samson personnel suggest that the firm's elimination of year-end",
+            "B": "Recent studies suggest that sales of name-brand pharmaceuticals, such as Samson, are",
+            "C": "The rising costs associated with college recruiting have forced Samson to hire sales associates",
+            "D": "Members of the sales team have expressed that they do not fully understand the benefits and"
         },
         "answer": "D",
-        "explanation": "D) If the sales force does not understand the benefits and side effects of Samson's\nlatest drugs, then it is most likely unable to sell the products effectively. Training would provide\nsalespeople with the necessary information. Poor attitudes suggest that the sales team doesn't\nwant to sell products, which is not an issue that can be corrected with training."
+        "explanation": "D) If the sales force does not understand the benefits and side effects of Samson's"
     },
     {
         "chapter": "8",
-        "question_number": "26)",
-        "description": "Mark Caffrey, vice president of sales at Samson Pharmaceuticals, manages a sales team of\nten employees. Members of Mark's sales force vary in experience level. Four members of the\nsales team have worked at Samson for less than one year. The other six salespeople have been\nwith Samson anywhere from three to seven years. Mark recently received the annual sales report\nand noticed that sales have been dropping steadily over the last year. Mark is considering the\nidea of providing training to his sales team as a way to boost sales.\nWhich of the following most likely undermines the argument that the drop in Samson's sales can\nbe solved through training?",
+        "question_number": "26",
+        "description": "ten employees. Members of Mark's sales force vary in experience level. Four members of the sales team have worked at Samson for less than one year. The other six salespeople have been with Samson anywhere from three to seven years. Mark recently received the annual sales report and noticed that sales have been dropping steadily over the last year. Mark is considering the idea of providing training to his sales team as a way to boost sales. Which of the following most likely undermines the argument that the drop in Samson's sales can be solved through training? the firm to measure the effectiveness of new drugs. top of base salaries, which angered employees. years. likely change their attitudes. Training can help eliminate problems associated with a lack of job knowledge.",
         "options": {
-            "A": "The newest members of the Samson sales force are unfamiliar with the procedures used by\nthe firm to measure the effectiveness of new drugs.",
-            "B": "Samson recently eliminated its long-standing policy of paying salespeople commissions on\ntop of base salaries, which angered employees.",
-            "C": "Samson's most experienced salesperson retired after working at the firm for more than twenty\nyears.",
+            "A": "The newest members of the Samson sales force are unfamiliar with the procedures used by",
+            "B": "Samson recently eliminated its long-standing policy of paying salespeople commissions on",
+            "C": "Samson's most experienced salesperson retired after working at the firm for more than twenty",
             "D": "Samson sales team members recently received their annual performance appraisals."
         },
         "answer": "B",
-        "explanation": "B) Angry employees may lack the motivation to perform, and training would not\nlikely change their attitudes. Training can help eliminate problems associated with a lack of job\nknowledge."
+        "explanation": "B) Angry employees may lack the motivation to perform, and training would not"
     },
     {
         "chapter": "8",
-        "question_number": "27)",
-        "description": "Mark Caffrey, vice president of sales at Samson Pharmaceuticals, manages a sales team of\nten employees.\nMembers of Mark's sales force vary in experience level. Four members of the sales team have\nworked at Samson for less than one year. The other six salespeople have been with Samson\nanywhere from three to seven years. Mark recently received the annual sales report and noticed\nthat sales have been dropping steadily over the last year. Mark is considering the idea of\nproviding training to his sales team as a way to boost sales.\nAll of the following questions are relevant to Mark's decision to implement a training program\nfor his sales team EXCEPT:",
+        "question_number": "27",
+        "description": "ten employees. Members of Mark's sales force vary in experience level. Four members of the sales team have worked at Samson for less than one year. The other six salespeople have been with Samson anywhere from three to seven years. Mark recently received the annual sales report and noticed that sales have been dropping steadily over the last year. Mark is considering the idea of providing training to his sales team as a way to boost sales. All of the following questions are relevant to Mark's decision to implement a training program for his sales team EXCEPT: team, once the workers are hired the focus should be on training. The other questions relate to the decision of implementing a training program.",
         "options": {
             "A": "What methods are used for recruiting and interviewing individuals for sales positions?",
             "B": "Does every salesperson understand what his or her performance standards are?",
@@ -309,12 +309,12 @@
             "D": "What were the results of attitude surveys distributed to the sales team?"
         },
         "answer": "A",
-        "explanation": "A) Although recruiting and interviewing affect the quality of employees on a sales\nteam, once the workers are hired the focus should be on training. The other questions relate to\nthe decision of implementing a training program."
+        "explanation": "A) Although recruiting and interviewing affect the quality of employees on a sales"
     },
     {
         "chapter": "8",
-        "question_number": "28)",
-        "description": "Which of the following best describes the first step in a performance analysis?",
+        "question_number": "28",
+        "description": "performance to what it should be. Doing so helps to confirm that there is a performance deficiency and may also help the manager to identify its cause.",
         "options": {
             "A": "comparing a person's actual performance to the ideal performance",
             "B": "investigating employee-related customer complaints",
@@ -322,12 +322,12 @@
             "D": "conducting job knowledge assessments"
         },
         "answer": "A",
-        "explanation": "A) The first step in performance analysis is usually to compare the person's actual\nperformance to what it should be. Doing so helps to confirm that there is a performance\ndeficiency and may also help the manager to identify its cause."
+        "explanation": "A) The first step in performance analysis is usually to compare the person's actual"
     },
     {
         "chapter": "8",
-        "question_number": "29)",
-        "description": "Studies show that trainees are distracted by visual aids presented during training sessions.\nAnswer: FALSE\nExplanation: Presentations should include as many visual aids as possible because they make\nlearning more meaningful.\nDifficulty: Easy\nChapter: 8\nObjective: 3\nAACSB: Analytical Thinking\nLearning Outcome: 8.3 List and briefly explain each of the steps in the training process.\n30) Training sessions should be half-day or three-fourths day in length rather than a full day,\nbecause the learning curve goes down late in the day.\nAnswer: TRUE\nExplanation: The learning curve goes down late in the day, so that \"full day training is not as\neffective as half the day or three-fourths of the day.\"\nDifficulty: Easy\nChapter: 8\nObjective: 3\nAACSB: Analytical Thinking\nLearning Outcome: 8.3 List and briefly explain each of the steps in the training process.\n31) The purpose of a current training needs analysis is to ensure that critical employees receive\nadequate training and development for future positions with the firm.\nAnswer: FALSE\nExplanation: A strategic training needs analysis focuses on training employees who will be\nneeded to fill future jobs. A current training needs analysis is focused on training new employees\nor deficient employees for the purpose of improving current performance.\nDifficulty: Moderate\nChapter: 8\nObjective: 3\nAACSB: Analytical Thinking\nLearning Outcome: 8.3 List and briefly explain each of the steps in the training process.\n32) Performance analysis is a detailed study of a job to determine what specific skills the job\nrequires.\nAnswer: FALSE\nExplanation: Task analysis is a detailed study of the job to determine what specific skills—like\nJava (in the case of a Web developer) or interviewing (in the case of a supervisor)—the job\nrequires.\nDifficulty: Easy\nChapter: 8\nObjective: 3\nAACSB: Analytical Thinking\nLearning Outcome: 8.3 List and briefly explain each of the steps in the training process.\n13\nCopyright © 2017 Pearson Education, Inc.\n\n33) Attitude surveys, employee diaries, tests, and performance appraisals are tools for\nconducting a performance analysis.\nAnswer: TRUE\nExplanation: The first step in performance analysis is usually to compare the person's actual\nperformance to what it should be. Doing so helps to confirm that there is a performance\ndeficiency, and can be accomplished through attitude surveys, diaries, tests, and performance\nappraisals.\nDifficulty: Moderate\nChapter: 8\nObjective: 3\nAACSB: Analytical Thinking\nLearning Outcome: 8.3 List and briefly explain each of the steps in the training process.\n34) What are the four steps involved in the training process? After a training program has been\nestablished, how can managers make the training material more meaningful for employees?\nAnswer: Training programs consist of four steps. In the first, needs analysis step, you identify\nthe specific knowledge and skills the job requires, and compare these with the prospective\ntrainees' knowledge and skills. In the second, instructional design step, you formulate specific,\nmeasurable knowledge and performance training objectives, review possible training program\ncontent (including workbooks, exercises, and activities), and estimate a budget for the training\nprogram. The third step is to implement the program, by actually training the targeted employee\ngroup using methods such as on-the-job or online training. Finally, in an evaluation step, you\nassess the program's success. There are five suggestions for making training material more\nmeaningful for employees. First, an overall picture of the training material that will be presented\nshould be provided at the start of training. Second, familiar examples should be used. Third, the\ninformation should be logically organized and presented. Fourth, the vocabulary used during\ntraining should be familiar to the trainees. Fifth, many visual aids should be used.\nDifficulty: Hard\nChapter: 8\nObjective: 3\nAACSB: Analytical Thinking\nLearning Outcome: 8.3 List and briefly explain each of the steps in the training process.\n14\nCopyright © 2017 Pearson Education, Inc.\n\n35) What is the difference between a task analysis and a performance analysis? What is the\npurpose of each in regards to training?\nAnswer: Task analysis is a detailed study of the job to determine what specific skills—like Java\n(in the case of a Web developer) or interviewing (in the case of a supervisor)—the job requires.\nJob descriptions and job specifications are important here. These list the job's specific duties and\nskills, which are the basic reference points in determining the training required. For under-\nperforming current employees, you can't assume that training is the problem: Is it lack of\ntraining, or something else? Performance analysis is the process of verifying that there is a\nperformance deficiency and determining whether the employer should correct such deficiencies\nthrough training or some other means (like transferring the employee). The first step in\nperformance analysis is usually to compare the person's actual performance to what it should be.\nDoing so helps to confirm that there is a performance deficiency and may also help the manager\nto identify its cause.\nDifficulty: Hard\nChapter: 8\nObjective: 3\nAACSB: Analytical Thinking\nLearning Outcome: 8.3 List and briefly explain each of the steps in the training process.\n36) Tyler, a new accounts representative at Martin Marketing, is learning the job by actually\ndoing job-related tasks such as contacting customers. Tyler is most likely participating in\n________.",
+        "question_number": "36",
+        "description": "doing job-related tasks such as contacting customers. Tyler is most likely participating in ________. it. Every employee, from mailroom clerk to CEO, gets on-the-job training when he or she joins a firm.",
         "options": {
             "A": "on-the-job training",
             "B": "socialization",
@@ -335,12 +335,12 @@
             "D": "modeling"
         },
         "answer": "A",
-        "explanation": "A) On-the-job training (OJT) means having a person learn a job by actually doing\nit. Every employee, from mailroom clerk to CEO, gets on-the-job training when he or she joins a\nfirm."
+        "explanation": "A) On-the-job training (OJT) means having a person learn a job by actually doing"
     },
     {
         "chapter": "8",
-        "question_number": "37)",
-        "description": "Which of the following training methods is most frequently used by employers?",
+        "question_number": "37",
+        "description": "it. Every employee, from mailroom clerk to CEO, gets on-the-job training when he or she joins a firm, which is why it is the most popular method. In many firms, OJT is the only training available.",
         "options": {
             "A": "job instruction training",
             "B": "apprenticeship training",
@@ -348,12 +348,12 @@
             "D": "classroom training"
         },
         "answer": "C",
-        "explanation": "C) On-the-job training (OJT) means having a person learn a job by actually doing\nit. Every employee, from mailroom clerk to CEO, gets on-the-job training when he or she joins a\nfirm, which is why it is the most popular method. In many firms, OJT is the only training\navailable."
+        "explanation": "C) On-the-job training (OJT) means having a person learn a job by actually doing"
     },
     {
         "chapter": "8",
-        "question_number": "38)",
-        "description": "All of the following are types of on-the-job training EXCEPT ________.",
+        "question_number": "38",
+        "description": "method.",
         "options": {
             "A": "programmed learning",
             "B": "understudy method",
@@ -361,12 +361,12 @@
             "D": "job rotation"
         },
         "answer": "A",
-        "explanation": "A) Programmed learning is not a type of OJT but is a step-by-step, self-learning\nmethod."
+        "explanation": "A) Programmed learning is not a type of OJT but is a step-by-step, self-learning"
     },
     {
         "chapter": "8",
-        "question_number": "39)",
-        "description": "Rebekah was hired soon after graduation and assigned to complete a management trainee\nprogram. She will move to various jobs each month for a nine-month period of time. Her\nemployer is utilizing the ________ form of training.",
+        "question_number": "39",
+        "description": "program. She will move to various jobs each month for a nine-month period of time. Her employer is utilizing the ________ form of training. job to job at planned intervals, is another OJT technique.",
         "options": {
             "A": "job rotation",
             "B": "understudy",
@@ -374,12 +374,12 @@
             "D": "informal learning"
         },
         "answer": "A",
-        "explanation": "A) Job rotation, in which an employee (usually a management trainee) moves from\njob to job at planned intervals, is another OJT technique."
+        "explanation": "A) Job rotation, in which an employee (usually a management trainee) moves from"
     },
     {
         "chapter": "8",
-        "question_number": "40)",
-        "description": "Mario hopes to be promoted to the head of his department next year. In the meantime, he has\nbeen assigned to spend a year as an assistant to the current department head. Which type of\ntraining is most likely being used in this example?",
+        "question_number": "40",
+        "description": "been assigned to spend a year as an assistant to the current department head. Which type of training is most likely being used in this example? Here, an experienced worker or the trainee's supervisor trains the employee. This may involve simply acquiring skills by observing the supervisor, or (preferably) having the supervisor or job expert show the new employee the ropes, step-by-step.",
         "options": {
             "A": "job rotation",
             "B": "job instruction",
@@ -391,8 +391,8 @@
     },
     {
         "chapter": "8",
-        "question_number": "41)",
-        "description": "The on-the-job method of ________ involves give lower-level executives firsthand\nexperience in working on actual problems.",
+        "question_number": "41",
+        "description": "experience in working on actual problems. in working on actual problems.",
         "options": {
             "A": "coaching",
             "B": "informal learning",
@@ -400,25 +400,25 @@
             "D": "programmed learning"
         },
         "answer": "C",
-        "explanation": "C) Special assignments similarly give lower-level executives firsthand experience\nin working on actual problems."
+        "explanation": "C) Special assignments similarly give lower-level executives firsthand experience"
     },
     {
         "chapter": "8",
-        "question_number": "42)",
-        "description": "John is doing is doing a training method to learn a new job where there are sequence of steps\nhe is supposed to learn step-by-step. This method is called:",
+        "question_number": "42",
+        "description": "he is supposed to learn step-by-step. This method is called: step. Such step-by-step training is called job instruction training (JIT).",
         "options": {
             "A": "task analysis",
-            "B": "job instruction training (JIT)",
+            "B": "job instruction training (JIT",
             "C": "informal learning",
             "D": "job rotation"
         },
         "answer": "B",
-        "explanation": "B) Many jobs (or parts of jobs) consist of a sequence of steps best learned step-by-\nstep. Such step-by-step training is called job instruction training (JIT)."
+        "explanation": "B) Many jobs (or parts of jobs) consist of a sequence of steps best learned step-by-"
     },
     {
         "chapter": "8",
-        "question_number": "43)",
-        "description": "Surveys estimate that as much as X% of what employees learn on the job they learn through\ninformal means.",
+        "question_number": "43",
+        "description": "informal means. learn through informal means.",
         "options": {
             "A": "10%",
             "B": "50%",
@@ -426,12 +426,12 @@
             "D": "95%"
         },
         "answer": "C",
-        "explanation": "C) Surveys estimate that as much as 80% of what employees learn on the job they\nlearn through informal means."
+        "explanation": "C) Surveys estimate that as much as 80% of what employees learn on the job they"
     },
     {
         "chapter": "8",
-        "question_number": "44)",
-        "description": "A structured process by which people become skilled workers through a combination of\nclassroom instruction and on-the-job training is called ________.",
+        "question_number": "44",
+        "description": "classroom instruction and on-the-job training is called ________. usually through a combination of formal learning and long-term on-the-job training. It traditionally involves having the learner/apprentice study under the tutelage of a master craftsperson.",
         "options": {
             "A": "job instruction training",
             "B": "programmed learning",
@@ -439,12 +439,12 @@
             "D": "coaching technique"
         },
         "answer": "C",
-        "explanation": "C) Apprenticeship training is a process by which people become skilled workers,\nusually through a combination of formal learning and long-term on-the-job training. It\ntraditionally involves having the learner/apprentice study under the tutelage of a master\ncraftsperson."
+        "explanation": "C) Apprenticeship training is a process by which people become skilled workers,"
     },
     {
         "chapter": "8",
-        "question_number": "45)",
-        "description": "Which form of on-the-job training usually involves having a learner study under the tutelage\nof a master craftsperson?",
+        "question_number": "45",
+        "description": "of a master craftsperson? study under the tutelage of a master craftsperson. It is a process by which people become skilled workers, usually through a combination of formal learning and long-term on-the-job training.",
         "options": {
             "A": "programmed learning",
             "B": "mentoring",
@@ -452,12 +452,12 @@
             "D": "coaching"
         },
         "answer": "C",
-        "explanation": "C) Apprenticeship training traditionally involves having the learner/apprentice\nstudy under the tutelage of a master craftsperson. It is a process by which people become skilled\nworkers, usually through a combination of formal learning and long-term on-the-job training."
+        "explanation": "C) Apprenticeship training traditionally involves having the learner/apprentice"
     },
     {
         "chapter": "8",
-        "question_number": "46)",
-        "description": "John is currently being trained on the job and is at the first step in the OTJ process, which is:",
+        "question_number": "46",
+        "description": "familiarizing a worker with equipment, materials, tools, and trade terms.",
         "options": {
             "A": "showing the trainee how do the task",
             "B": "verbalizing the steps of the task",
@@ -465,12 +465,12 @@
             "D": "familiarizing the trainee with equipment, tools, and trade terms"
         },
         "answer": "D",
-        "explanation": "D) Preparing the trainee is the first step in the OJT process, and it involves\nfamiliarizing a worker with equipment, materials, tools, and trade terms."
+        "explanation": "D) Preparing the trainee is the first step in the OJT process, and it involves"
     },
     {
         "chapter": "8",
-        "question_number": "47)",
-        "description": "When jobs consist of a logical sequence of steps and are best taught step-by-step, the most\nappropriate training method to use is ________.",
+        "question_number": "47",
+        "description": "appropriate training method to use is ________. learns step-by-step. This step-by-step training is called job instruction training (JIT).",
         "options": {
             "A": "job instruction training",
             "B": "apprenticeship training",
@@ -478,12 +478,12 @@
             "D": "job rotation"
         },
         "answer": "A",
-        "explanation": "A) Many jobs (or parts of jobs) consist of a logical sequence of steps that one best\nlearns step-by-step. This step-by-step training is called job instruction training (JIT)."
+        "explanation": "A) Many jobs (or parts of jobs) consist of a logical sequence of steps that one best"
     },
     {
         "chapter": "8",
-        "question_number": "48)",
-        "description": "With job instruction training, which of the following should most likely be included beside\neach step listed?",
+        "question_number": "48",
+        "description": "each step listed? and any key points or guidelines are listed beside each step to provide clarification to the trainee.",
         "options": {
             "A": "sources for more information",
             "B": "any legal requirements",
@@ -491,12 +491,12 @@
             "D": "quality requirements"
         },
         "answer": "C",
-        "explanation": "C) With job instruction training, all the steps in a job are listed in the correct order,\nand any key points or guidelines are listed beside each step to provide clarification to the trainee."
+        "explanation": "C) With job instruction training, all the steps in a job are listed in the correct order,"
     },
     {
         "chapter": "8",
-        "question_number": "49)",
-        "description": "Which of the following is the primary advantage of lecturing as a method of training?",
+        "question_number": "49",
+        "description": "experience show that they can be effective. Lecturing is a quick and simple way to present knowledge to large groups of trainees, as when the sales force needs to learn a new product's features.",
         "options": {
             "A": "motivational for employees",
             "B": "effective for informal learning",
@@ -504,12 +504,12 @@
             "D": "requires limited preparation"
         },
         "answer": "C",
-        "explanation": "C) Although some correctly view lectures as being boring, studies and practical\nexperience show that they can be effective. Lecturing is a quick and simple way to present\nknowledge to large groups of trainees, as when the sales force needs to learn a new product's\nfeatures."
+        "explanation": "C) Although some correctly view lectures as being boring, studies and practical"
     },
     {
         "chapter": "8",
-        "question_number": "50)",
-        "description": "Which of the following will most likely help a speaker improve the effectiveness of a\ntraining lecture?",
+        "question_number": "50",
+        "description": "training lecture? speaker realize that he or she needs to make modifications to the lecture. Irrelevant or old jokes are not effective openers. Speakers should use notes rather than a script and control their hands. Speeches are more effective when broken into short talks.",
         "options": {
             "A": "opening with a familiar joke",
             "B": "talking from a prepared script",
@@ -517,12 +517,12 @@
             "D": "using exaggerated hand gestures to emphasize points"
         },
         "answer": "C",
-        "explanation": "C) Watching for negative signals in the audience's body language can help a\nspeaker realize that he or she needs to make modifications to the lecture. Irrelevant or old jokes\nare not effective openers. Speakers should use notes rather than a script and control their hands."
+        "explanation": "C) Watching for negative signals in the audience's body language can help a"
     },
     {
         "chapter": "8",
-        "question_number": "51)",
-        "description": "Which of the following is a systematic method for teaching job skills that involves\npresenting questions or facts, allowing the person to respond, and giving the learner immediate\nfeedback on the accuracy of his or her answers?",
+        "question_number": "51",
+        "description": "presenting questions or facts, allowing the person to respond, and giving the learner immediate feedback on the accuracy of his or her answers? three parts: presenting questions, facts, or problems to the learner; allowing the person to respond; and providing feedback on the accuracy of answers.",
         "options": {
             "A": "job instruction training",
             "B": "programmed learning",
@@ -530,12 +530,12 @@
             "D": "simulated learning"
         },
         "answer": "B",
-        "explanation": "B) Programmed learning is a step-by-step, self-learning method that consists of\nthree parts: presenting questions, facts, or problems to the learner; allowing the person to\nrespond; and providing feedback on the accuracy of answers."
+        "explanation": "B) Programmed learning is a step-by-step, self-learning method that consists of"
     },
     {
         "chapter": "8",
-        "question_number": "52)",
-        "description": "Which of the following is NOT an advantage of programmed learning?",
+        "question_number": "52",
+        "description": "facilitates learning by letting trainees learn at their own pace and receive immediate feedback. However, programmed learning occurs with a book or computer rather than a coach.",
         "options": {
             "A": "Training time is significantly reduced.",
             "B": "Trainees can work at their own pace.",
@@ -543,12 +543,12 @@
             "D": "Trainees receive immediate feedback."
         },
         "answer": "C",
-        "explanation": "C) Programmed learning's main advantage is that it reduces training time. It also\nfacilitates learning by letting trainees learn at their own pace and receive immediate feedback."
+        "explanation": "C) Programmed learning's main advantage is that it reduces training time. It also"
     },
     {
         "chapter": "8",
-        "question_number": "53)",
-        "description": "Which of the following terms refers to computer-based training systems that adjust to meet\neach trainee's specific learning needs?",
+        "question_number": "53",
+        "description": "each trainee's specific learning needs? instruction programs. In addition to the usual programmed learning, intelligent tutoring systems learn what questions and approaches worked and did not work for the learner, and therefore adjust the suggested instructional sequence to the trainee's unique needs.",
         "options": {
             "A": "virtual learning systems",
             "B": "video-based simulations",
@@ -556,25 +556,25 @@
             "D": "intelligent tutoring systems"
         },
         "answer": "D",
-        "explanation": "D) Intelligent tutoring systems are computerized, supercharged, programmed\ninstruction programs. In addition to the usual programmed learning, intelligent tutoring systems\nlearn what questions and approaches worked and did not work for the learner, and therefore\nadjust the suggested instructional sequence to the trainee's unique needs."
+        "explanation": "D) Intelligent tutoring systems are computerized, supercharged, programmed"
     },
     {
         "chapter": "8",
-        "question_number": "54)",
-        "description": "Wells Fargo and Company is a financial services firm that provides banking, insurance, and\nmortgage services at 10,000 stores nationwide. Wells Fargo offers its employees many\nprofessional development opportunities such as training programs and tuition reimbursement.\nWells Fargo executives are considering the expansion of the firm's existing training programs\nafter employees have expressed strong interest in the idea.\nWhich of the following, if true, best supports the argument that Wells Fargo should use\nintelligent tutoring systems to provide training for loan officers?",
+        "question_number": "54",
+        "description": "mortgage services at 10,000 stores nationwide. Wells Fargo offers its employees many professional development opportunities such as training programs and tuition reimbursement. Wells Fargo executives are considering the expansion of the firm's existing training programs after employees have expressed strong interest in the idea. Which of the following, if true, best supports the argument that Wells Fargo should use intelligent tutoring systems to provide training for loan officers? variety of learning styles. at a central location to a large group of current employees at once. the history, culture, and vision of the firm. the most appropriate training programs for new employees. did not work for the learner, and therefore adjust the suggested instructional sequence to the trainee's unique needs. Such systems also enable trainees to work at their own pace.",
         "options": {
-            "A": "Current Wells Fargo employees indicate that they prefer to work at their own pace and have a\nvariety of learning styles.",
-            "B": "Since Wells Fargo stores are spread throughout the country, the firm needs to provide training\nat a central location to a large group of current employees at once.",
-            "C": "Wells Fargo's employee orientation program provides new employees with information about\nthe history, culture, and vision of the firm.",
-            "D": "Wells Fargo's board of directors sets training policies and works closely with HR to develop\nthe most appropriate training programs for new employees."
+            "A": "Current Wells Fargo employees indicate that they prefer to work at their own pace and have a",
+            "B": "Since Wells Fargo stores are spread throughout the country, the firm needs to provide training",
+            "C": "Wells Fargo's employee orientation program provides new employees with information about",
+            "D": "Wells Fargo's board of directors sets training policies and works closely with HR to develop"
         },
         "answer": "A",
-        "explanation": "A) Intelligent tutoring systems learn what questions and approaches worked and\ndid not work for the learner, and therefore adjust the suggested instructional sequence to the\ntrainee's unique needs. Such systems also enable trainees to work at their own pace."
+        "explanation": "A) Intelligent tutoring systems learn what questions and approaches worked and"
     },
     {
         "chapter": "8",
-        "question_number": "55)",
-        "description": "________ training is a method in which trainees learn on actual or simulated equipment but\nare trained away from the job.",
+        "question_number": "55",
+        "description": "are trained away from the job. equipment they will use on the job, but are trained off the job (perhaps in a separate room or vestibule). Vestibule training is necessary when it's too costly or dangerous to train employees on the job.",
         "options": {
             "A": "Vestibule",
             "B": "Virtual-reality",
@@ -582,12 +582,12 @@
             "D": "Job instruction"
         },
         "answer": "A",
-        "explanation": "A) Vestibule training is a method in which trainees learn on the actual or simulated\nequipment they will use on the job, but are trained off the job (perhaps in a separate room or\nvestibule). Vestibule training is necessary when it's too costly or dangerous to train employees on\nthe job."
+        "explanation": "A) Vestibule training is a method in which trainees learn on the actual or simulated"
     },
     {
         "chapter": "8",
-        "question_number": "56)",
-        "description": "American Airlines uses flight simulators to train pilots about airplane equipment and safety\nmeasures. This is an example of ________.",
+        "question_number": "56",
+        "description": "measures. This is an example of ________. equipment they will use on the job, but are trained off the job. Vestibule training is necessary when it's too costly or dangerous to train employees on the job, such as with pilots.",
         "options": {
             "A": "on-the-job training",
             "B": "vestibule training",
@@ -595,12 +595,12 @@
             "D": "programmed learning"
         },
         "answer": "B",
-        "explanation": "B) Vestibule training is a method in which trainees learn on the actual or simulated\nequipment they will use on the job, but are trained off the job. Vestibule training is necessary\nwhen it's too costly or dangerous to train employees on the job, such as with pilots."
+        "explanation": "B) Vestibule training is a method in which trainees learn on the actual or simulated"
     },
     {
         "chapter": "8",
-        "question_number": "57)",
-        "description": "Which of the following involves a trainer in a central location teaching groups of employees\nat remote locations over cable broadband lines or the Internet?",
+        "question_number": "57",
+        "description": "at remote locations over cable broadband lines or the Internet? employees at remote locations via cable broadband lines, the Internet, or satellite.",
         "options": {
             "A": "audiovisual-based instruction",
             "B": "programmed learning",
@@ -608,12 +608,12 @@
             "D": "videoconferencing"
         },
         "answer": "D",
-        "explanation": "D) With videoconferencing, a trainer in a central location teaches groups of\nemployees at remote locations via cable broadband lines, the Internet, or satellite."
+        "explanation": "D) With videoconferencing, a trainer in a central location teaches groups of"
     },
     {
         "chapter": "8",
-        "question_number": "58)",
-        "description": "Travel agents at Apollo Travel Services follow a computer program that displays question\nprompts and dialogue boxes with travel policies as the agent enters information about the\nconsumer's travel plans. This is an example of a(n) ________.",
+        "question_number": "58",
+        "description": "prompts and dialogue boxes with travel policies as the agent enters information about the consumer's travel plans. This is an example of a(n) ________. displays that automate training, documentation, and phone support. In this example, a client calling the travel service is asked questions that are prompted by an EPSS to take both the client and travel agent step-by-step, through an analytical sequence.",
         "options": {
             "A": "audiovisual-based training method",
             "B": "electronic performance support system",
@@ -621,12 +621,12 @@
             "D": "computer-based training module"
         },
         "answer": "B",
-        "explanation": "B) Electronic performance support systems (EPSS) are computerized tools and\ndisplays that automate training, documentation, and phone support. In this example, a client\ncalling the travel service is asked questions that are prompted by an EPSS to take both the client\nand travel agent step-by-step, through an analytical sequence."
+        "explanation": "B) Electronic performance support systems (EPSS) are computerized tools and"
     },
     {
         "chapter": "8",
-        "question_number": "59)",
-        "description": "________ are special software tools that support Internet training by helping employers\nidentify training needs, and to schedule, deliver, assess, and manage the online training itself.",
+        "question_number": "59",
+        "description": "identify training needs, and to schedule, deliver, assess, and manage the online training itself. Internet training by helping employers identify training needs, and to schedule, deliver, assess, and manage the online training itself.",
         "options": {
             "A": "Learning management systems",
             "B": "Intelligent tutoring systems",
@@ -638,8 +638,8 @@
     },
     {
         "chapter": "8",
-        "question_number": "60)",
-        "description": "Which of the following terms refers to a set of instructions, diagrams, or similar methods\navailable at the job site to guide the worker?",
+        "question_number": "60",
+        "description": "available at the job site to guide the worker? job site to guide the worker. Job aids work particularly well on complex jobs that require multiple steps, or where it's dangerous to forget a step.",
         "options": {
             "A": "task analysis record form",
             "B": "position replacement card",
@@ -647,12 +647,12 @@
             "D": "job aid"
         },
         "answer": "D",
-        "explanation": "D) A job aid is a set of instructions, diagrams, or similar methods available at the\njob site to guide the worker. Job aids work particularly well on complex jobs that require\nmultiple steps, or where it's dangerous to forget a step."
+        "explanation": "D) A job aid is a set of instructions, diagrams, or similar methods available at the"
     },
     {
         "chapter": "8",
-        "question_number": "61)",
-        "description": "United Airlines utilizes a checklist of things that pilots should do prior to take-off and\nlanding. This checklist is an example of a(n) ________.",
+        "question_number": "61",
+        "description": "landing. This checklist is an example of a(n) ________. job site to guide the worker. Job aids work particularly well on complex jobs that require multiple steps, or where it's dangerous to forget a step, such as airplane take-off.",
         "options": {
             "A": "job aid",
             "B": "skill sheet",
@@ -660,25 +660,25 @@
             "D": "electronic support system"
         },
         "answer": "A",
-        "explanation": "A) A job aid is a set of instructions, diagrams, or similar methods available at the\njob site to guide the worker. Job aids work particularly well on complex jobs that require\nmultiple steps, or where it's dangerous to forget a step, such as airplane take-off."
+        "explanation": "A) A job aid is a set of instructions, diagrams, or similar methods available at the"
     },
     {
         "chapter": "8",
-        "question_number": "62)",
-        "description": "Wells Fargo and Company is a financial services firm that provides banking, insurance, and\nmortgage services at 10,000 stores nationwide. Wells Fargo offers its employees many\nprofessional development opportunities such as training programs and tuition reimbursement.\nWells Fargo executives are considering the expansion of the firm's existing training programs\nafter employees have expressed strong interest in the idea.\nWhich of the following, if true, best supports the argument that Wells Fargo should integrate\ncomputer simulations into its training program for bank tellers?",
+        "question_number": "62",
+        "description": "mortgage services at 10,000 stores nationwide. Wells Fargo offers its employees many professional development opportunities such as training programs and tuition reimbursement. Wells Fargo executives are considering the expansion of the firm's existing training programs after employees have expressed strong interest in the idea. Which of the following, if true, best supports the argument that Wells Fargo should integrate computer simulations into its training program for bank tellers? training courses. least 30 hours of training each year. handling complicated bank transactions. methods for handling angry customers. performed in the situation. Simulations can help employees learn conflict resolution skills to deal with angry bank customers.",
         "options": {
-            "A": "The Wells Fargo intranet-based learning portal provides employees with access to a variety of\ntraining courses.",
-            "B": "Wells Fargo is one of the few financial institutions to require all employees to participate in at\nleast 30 hours of training each year.",
-            "C": "Wells Fargo bank tellers use electronic performance support systems to assist them with\nhandling complicated bank transactions.",
-            "D": "Employee surveys indicate that many Wells Fargo bank tellers are uncertain about the best\nmethods for handling angry customers."
+            "A": "The Wells Fargo intranet-based learning portal provides employees with access to a variety of",
+            "B": "Wells Fargo is one of the few financial institutions to require all employees to participate in at",
+            "C": "Wells Fargo bank tellers use electronic performance support systems to assist them with",
+            "D": "Employee surveys indicate that many Wells Fargo bank tellers are uncertain about the best"
         },
         "answer": "D",
-        "explanation": "D) Computer simulations provide a representation of a situation and the tasks to be\nperformed in the situation. Simulations can help employees learn conflict resolution skills to deal\nwith angry bank customers."
+        "explanation": "D) Computer simulations provide a representation of a situation and the tasks to be"
     },
     {
         "chapter": "8",
-        "question_number": "63)",
-        "description": "Which of the following terms refers to a section of an employer's Web site that provides\nemployees with online access to job-related training courses?",
+        "question_number": "63",
+        "description": "employees with online access to job-related training courses? online access to many or all of the training courses they need to succeed at their jobs. When employees go to their firm's learning portal, they actually access the menu of training courses that the ASP company contracted with the employer to offer.",
         "options": {
             "A": "virtual classroom",
             "B": "videoconferencing",
@@ -686,12 +686,12 @@
             "D": "learning portal"
         },
         "answer": "D",
-        "explanation": "D) A learning portal is a section of an employer's Web site that offers employees\nonline access to many or all of the training courses they need to succeed at their jobs. When\nemployees go to their firm's learning portal, they actually access the menu of training courses\nthat the ASP company contracted with the employer to offer."
+        "explanation": "D) A learning portal is a section of an employer's Web site that offers employees"
     },
     {
         "chapter": "8",
-        "question_number": "64)",
-        "description": "Which of the following terms refers to a teaching method that uses special collaboration\nsoftware to enable multiple remote learners to participate in live audio and visual discussions via\na PC or laptop?",
+        "question_number": "64",
+        "description": "software to enable multiple remote learners to participate in live audio and visual discussions via a PC or laptop? software to enable multiple remote learners, using their PCs or laptops, to participate in live audio and visual discussions, communicate via written text, and learn via content such as PowerPoint slides.",
         "options": {
             "A": "computer simulation",
             "B": "virtual classroom",
@@ -699,12 +699,12 @@
             "D": "learning portal"
         },
         "answer": "B",
-        "explanation": "B) A virtual classroom is a teaching method that uses special collaboration\nsoftware to enable multiple remote learners, using their PCs or laptops, to participate in live\naudio and visual discussions, communicate via written text, and learn via content such as"
+        "explanation": "B) A virtual classroom is a teaching method that uses special collaboration"
     },
     {
         "chapter": "8",
-        "question_number": "65)",
-        "description": "All of the following are literacy training methods used by employers EXCEPT ________.",
+        "question_number": "65",
+        "description": "writing and speaking exercises. Another approach is to bring in outside professionals to teach, say, remedial reading or writing. Having employees attend adult education or high school evening classes is another option. Computerized simulations are more appropriate for teaching job skills rather than reading and writing.",
         "options": {
             "A": "providing computerized simulations",
             "B": "assigning writing exercises to employees",
@@ -712,12 +712,12 @@
             "D": "sending employees to adult education classes"
         },
         "answer": "A",
-        "explanation": "A) Employers often have supervisors teach basic skills by giving employees\nwriting and speaking exercises. Another approach is to bring in outside professionals to teach,\nsay, remedial reading or writing. Having employees attend adult education or high school\nevening classes is another option. Computerized simulations are more appropriate for teaching\njob skills rather than reading and writing."
+        "explanation": "A) Employers often have supervisors teach basic skills by giving employees"
     },
     {
         "chapter": "8",
-        "question_number": "66)",
-        "description": "________ attempts to foster harmonious working relationships and to develop cross-cultural\nsensitivity among the employees of a firm.",
+        "question_number": "66",
+        "description": "sensitivity among the employees of a firm. of fostering more harmonious working relationships among a firm's employees. Such training typically includes improving interpersonal skills, understanding and valuing cultural differences, improving technical skills, socializing employees into the corporate culture, and indoctrinating new workers into the U.S. work ethic.",
         "options": {
             "A": "Adaptability screening",
             "B": "Multicultural simulation",
@@ -725,12 +725,12 @@
             "D": "Diversity training"
         },
         "answer": "D",
-        "explanation": "D) Diversity training aims to create better cross-cultural sensitivity, with the goal\nof fostering more harmonious working relationships among a firm's employees. Such training\ntypically includes improving interpersonal skills, understanding and valuing cultural differences,\nimproving technical skills, socializing employees into the corporate culture, and indoctrinating\nnew workers into the U.S. work ethic."
+        "explanation": "D) Diversity training aims to create better cross-cultural sensitivity, with the goal"
     },
     {
         "chapter": "8",
-        "question_number": "67)",
-        "description": "What is the primary purpose of implementing a cross training program at a firm?",
+        "question_number": "67",
+        "description": "own; doing so facilitates flexibility and job rotation, as when you expect team members to occasionally share jobs.",
         "options": {
             "A": "compiling skills records",
             "B": "creating a diverse environment",
@@ -738,12 +738,12 @@
             "D": "assessing employee technical skills"
         },
         "answer": "C",
-        "explanation": "C) Cross training means training employees to do different tasks or jobs than their\nown; doing so facilitates flexibility and job rotation, as when you expect team members to\noccasionally share jobs."
+        "explanation": "C) Cross training means training employees to do different tasks or jobs than their"
     },
     {
         "chapter": "8",
-        "question_number": "68)",
-        "description": "All of the following are characteristics of most interactive training programs, such as\nsimulations, EXCEPT ________.",
+        "question_number": "68",
+        "description": "simulations, EXCEPT ________. Other advantages include instructional consistency (computers, unlike human trainers, don't have good days and bad days), mastery of learning (if the trainee doesn't learn it, he or she generally can't move on to the next step), increased retention, and increased trainee motivation (resulting from responsive feedback).",
         "options": {
             "A": "mastery of learning",
             "B": "responsive feedback",
@@ -755,8 +755,8 @@
     },
     {
         "chapter": "8",
-        "question_number": "69)",
-        "description": "Lower-level managers who are given firsthand experience working on existing problems are\nbeing trained through the special assignments approach.\nAnswer: TRUE\nExplanation: Special assignments give lower-level executives firsthand experience in working\non actual problems.\nDifficulty: Easy\nChapter: 8\nObjective: 4\nAACSB: Analytical Thinking\nLearning Outcome: 8.4 Explain how to use five training techniques.\n70) Surveys estimate that approximately 20% of what employees learn on the job is learned\nthrough informal means while the rest is learned through formal training programs.\nAnswer: FALSE\nExplanation: Surveys from the American Society for Training and Development estimate that as\nmuch as 80% of what employees learn on the job they learn not through formal training but\nthrough informal means, including performing their jobs on a daily basis in collaboration with\ntheir colleagues.\nDifficulty: Moderate\nChapter: 8\nObjective: 4\nAACSB: Analytical Thinking\nLearning Outcome: 8.4 Explain how to use five training techniques.\n30\nCopyright © 2017 Pearson Education, Inc.\n\n71) Apprenticeship training is a step-by-step self-learning method which uses a textbook,\ncomputer, or the Internet.\nAnswer: FALSE\nExplanation: Apprenticeship training is a process by which people become skilled workers,\nusually through a combination of formal learning and long-term on-the-job training. It typically\ninvolves the trainee working under the guidance of an expert rather than on his or her own.\nDifficulty: Easy\nChapter: 8\nObjective: 4\nAACSB: Analytical Thinking\nLearning Outcome: 8.4 Explain how to use five training techniques.\n72) Evidence suggests that Web-based instruction is significantly more effective than classroom\ninstruction for teaching information about how to perform a job-related task.\nAnswer: FALSE\nExplanation: In one review of the evidence, Web-based instruction was a bit more effective than\nclassroom instruction for teaching memory of facts and principles, and Web-based instruction\nand classroom instruction were equally effective for teaching information about how to perform\na task or action.\nDifficulty: Moderate\nChapter: 8\nObjective: 4\nAACSB: Analytical Thinking\nLearning Outcome: 8.4 Explain how to use five training techniques.\n73) Providing learning content on demand through cell phones and laptops is known as mobile\nlearning.\nAnswer: TRUE\nExplanation: Mobile learning (or \"on-demand learning\") means delivering learning content on\ndemand via mobile devices like cell phones, laptops, and iPhones, wherever and whenever the\nlearner has the time and desire to access it.\nDifficulty: Moderate\nChapter: 8\nObjective: 4\nAACSB: Analytical Thinking\nLearning Outcome: 8.4 Explain how to use five training techniques.\n31\nCopyright © 2017 Pearson Education, Inc.\n\n74) With a lifelong learning account, employers and employees can contribute money that can be\nused by employees to attend school.\nAnswer: TRUE\nExplanation: Somewhat similar to 401(k) plans, employers and employees contribute to LiLA\nplans (without the tax advantages of 401(k) plans), and the employee can use these funds to\nbetter himself or herself. Lifelong learning may thus range from basic remedial skills (for\ninstance, English as a second language) to college.\nDifficulty: Easy\nChapter: 8\nObjective: 4\nAACSB: Analytical Thinking\nLearning Outcome: 8.4 Explain how to use five training techniques.\n75) Team training is used by many firms to develop strong management teams, enhance\ninterpersonal skills, and encourage job flexibility.\nAnswer: TRUE\nExplanation: Team training often focuses on technical, interpersonal, and team management\nissues. By working in teams, employees are able to share jobs, which encourages flexibility in\nthe workplace.\nDifficulty: Easy\nChapter: 8\nObjective: 4\nAACSB: Analytical Thinking\nLearning Outcome: 8.4 Explain how to use five training techniques.\n76) In a brief essay, discuss how mobile devices, such as iPhones, are used by firms to facilitate\nemployee training.\nAnswer: Mobile learning (or \"on-demand learning\") means delivering learning content on\ndemand via mobile devices like cell phones, laptops, and iPhones, wherever and whenever the\nlearner has the time and desire to access it. For example, using dominKnow's iPod touch and\niPhone optimized Touch Learning Center Portal, trainees can log in and take full online courses.\nEmployers use mobile learning to deliver corporate training and downloads on everything from\nhow to close an important sales deal to optimizing organizational change. Most large employers\ndistribute internal communications and training via mobile devices. Employers use mobile\nlearning to deliver training and downloads on topics \"from how to close an important sales deal\nto optimizing organizational change.\" IBM uses mobile learning to deliver just-in-time\ninformation (for instance, about new product features) to its sales force. To facilitate this, its\ntraining department often breaks up, say, an hour program into easier-to-use 10-minute pieces.\nSome employers use blogs to communicate learning to trainees.\nDifficulty: Hard\nChapter: 8\nObjective: 4\nAACSB: Application of Knowledge\nLearning Outcome: 8.4 Explain how to use five training techniques.\n32\nCopyright © 2017 Pearson Education, Inc.\n\n77) What is on-the-job training? What types of on-the-job training methods are most frequently\nused by employers?\nAnswer: On-the-job training (OJT) means having a person learn a job by actually doing it.\nEvery employee, from mailroom clerk to CEO, gets on-the-job training when he or she joins a\nfirm. In many firms, OJT is the only training available. The types of on-the-job training include\nthe coaching or understudy method, the job rotation method, and the special assignments\nmethod. Using the understudy method, an experienced worker or the trainee's supervisor trains\nthe employee. At lower levels, the trainee might observe the supervisor, but it is also used at\nhigher levels. Job rotation means that an employee moves from job to job at planned intervals.\nThis is common in management training programs. Special assignments give employees\nfirsthand experience in working on actual problems.\nDifficulty: Moderate\nChapter: 8\nObjective: 4\nAACSB: Analytical Thinking\nLearning Outcome: 8.4 Explain how to use five training techniques.\n78) Describe elements of computer-based training and why it can be effective.\nAnswer: Computer-based training refers to training methods that use interactive computer-based\nsystems to increase knowledge or skills. For example, employers use CBT to teach employees\nsafe methods for avoiding falls. The system lets trainees replay the lessons and answer questions,\nand is especially effective when paired with actual practice under a trainer's watchful eye.\nComputer-based training is increasingly realistic. For example, interactive multimedia training\nintegrates the use of text, video, graphics, photos, animation, and sound to create a complex\ntraining environment with which the trainee interacts. In training a physician, for instance, such a\nsystem lets a medical student take a hypothetical patient's medical history, conduct an\nexamination, and analyze lab tests. The student can then interpret the sounds and draw\nconclusions for a diagnosis. Virtual reality training takes this realism a step further, by putting\ntrainees into a simulated environment.\nDifficulty: Hard\nChapter: 8\nObjective: 4\nAACSB: Analytical Thinking\nLearning Outcome: 8.4 Explain how to use five training techniques.\n33\nCopyright © 2017 Pearson Education, Inc.\n\n79) What is programmed learning and why is it used in organizations?\nAnswer: Programmed learning is a step-by-step self-learning method using a medium such as a\ntextbook, computer, or the Internet. The three parts of the method include presenting questions,\nfacts, and problems to the learner, allowing the person to respond, and then providing feedback\non the accuracy of answers. Programmed learning reduces training time. It also facilitates\nlearning by letting trainees learn at their own pace, get immediate feedback, and reduce their risk\nof error. Some argue that trainees do not learn much more from programmed learning than from\na textbook. Yet studies generally support programmed learning's effectiveness. In addition to the\nusual programmed learning, computerized intelligent tutoring systems learn what questions and\napproaches worked and did not work for the learner, and then adjust the instructional sequence to\nthe trainee's unique needs.\nDifficulty: Hard\nChapter: 8\nObjective: 4\nAACSB: Analytical Thinking\nLearning Outcome: 8.4 Explain how to use five training techniques.\n80) Any attempt to improve managerial performance by imparting knowledge, changing\nattitudes, or increasing skills is called ________.",
+        "question_number": "80",
+        "description": "attitudes, or increasing skills is called ________. by imparting knowledge, changing attitudes, or increasing skills.",
         "options": {
             "A": "human resource management",
             "B": "performance enhancement",
@@ -764,12 +764,12 @@
             "D": "talent management"
         },
         "answer": "C",
-        "explanation": "C) Management development is any attempt to improve managerial performance\nby imparting knowledge, changing attitudes, or increasing skills."
+        "explanation": "C) Management development is any attempt to improve managerial performance"
     },
     {
         "chapter": "8",
-        "question_number": "81)",
-        "description": "Which process involves assessing the company's strategic needs, appraising the current\nperformance of managers, and building skills of managers?",
+        "question_number": "81",
+        "description": "performance of managers, and building skills of managers? by imparting knowledge, changing attitudes, or increasing skills. The management development process consists of assessing the company's strategic needs, appraising managers' current performance, and then developing the managers.",
         "options": {
             "A": "management development",
             "B": "performance management",
@@ -777,12 +777,12 @@
             "D": "management by objectives"
         },
         "answer": "A",
-        "explanation": "A) Management development is any attempt to improve managerial performance\nby imparting knowledge, changing attitudes, or increasing skills. The management development\nprocess consists of assessing the company's strategic needs, appraising managers' current\nperformance, and then developing the managers."
+        "explanation": "A) Management development is any attempt to improve managerial performance"
     },
     {
         "chapter": "8",
-        "question_number": "82)",
-        "description": "All of the following are on-the-job training methods used for managerial positions EXCEPT\n________.",
+        "question_number": "82",
+        "description": "________. managerial on-the-job training methods. The case study method is considered an off-the-job management training technique.",
         "options": {
             "A": "job rotation",
             "B": "action learning",
@@ -790,12 +790,12 @@
             "D": "understudy approach"
         },
         "answer": "C",
-        "explanation": "C) Job rotation, action learning, and the coaching/understudy approach are\nmanagerial on-the-job training methods. The case study method is considered an off-the-job\nmanagement training technique."
+        "explanation": "C) Job rotation, action learning, and the coaching/understudy approach are"
     },
     {
         "chapter": "8",
-        "question_number": "83)",
-        "description": "Which of the following enables management trainees to work full-time analyzing and\nsolving problems in other departments?",
+        "question_number": "83",
+        "description": "solving problems in other departments? analyzing and solving problems in departments other than their own. The basics include carefully selected teams of 5 to 25 members, assigning the teams real-world business problems that extend beyond their usual areas of expertise, and structured learning through coaching and feedback.",
         "options": {
             "A": "management games",
             "B": "action learning",
@@ -803,12 +803,12 @@
             "D": "job rotation"
         },
         "answer": "B",
-        "explanation": "B) Action learning programs give managers and others released time to work\nanalyzing and solving problems in departments other than their own. The basics include carefully\nselected teams of 5 to 25 members, assigning the teams real-world business problems that extend\nbeyond their usual areas of expertise, and structured learning through coaching and feedback."
+        "explanation": "B) Action learning programs give managers and others released time to work"
     },
     {
         "chapter": "8",
-        "question_number": "84)",
-        "description": "Eric is in a group with five other management trainees at Coca-Cola. Eric's group is\ncompeting against other management trainees at the firm in a simulated marketplace. Each group\nmust decide how much to spend on advertising and how many products to manufacture over the\nnext three years. In which of the following activities is Eric most likely participating?",
+        "question_number": "84",
+        "description": "competing against other management trainees at the firm in a simulated marketplace. Each group must decide how much to spend on advertising and how many products to manufacture over the next three years. In which of the following activities is Eric most likely participating? groups, each of which competes with the others in a simulated marketplace. Each group typically must make managerial decisions related to advertising, production, and inventory.",
         "options": {
             "A": "on-demand learning",
             "B": "apprenticeship training",
@@ -816,12 +816,12 @@
             "D": "behavior modeling"
         },
         "answer": "C",
-        "explanation": "C) With computerized management games, trainees divide into five- or six-person\ngroups, each of which competes with the others in a simulated marketplace. Each group typically\nmust make managerial decisions related to advertising, production, and inventory."
+        "explanation": "C) With computerized management games, trainees divide into five- or six-person"
     },
     {
         "chapter": "8",
-        "question_number": "85)",
-        "description": "Succession planning is a type of management development program that focuses on planning\nand filling lower and middle-management positions.\nAnswer: FALSE\nExplanation: Succession planning refers to the process through which a company plans for and\nfills senior-level openings rather than middle-management positions.\nDifficulty: Moderate\nChapter: 8\nObjective: 5\nAACSB: Analytical Thinking\nLearning Outcome: 8.5 List and briefly discuss four management development methods.\n36\nCopyright © 2017 Pearson Education, Inc.\n\n86) The case study method is an on-the job management development technique that presents a\nmanager with a written description of an organizational problem that needs to be diagnosed and\nsolved.\nAnswer: FALSE\nExplanation: The case study method is an off-the-job management training technique that\npresents a manager trainee with a written description of an organizational problem. The trainee\nanalyzes the case, diagnoses the problem, and presents his or her findings and solutions in a\ndiscussion with other trainees.\nDifficulty: Easy\nChapter: 8\nObjective: 5\nAACSB: Analytical Thinking\nLearning Outcome: 8.5 List and briefly discuss four management development methods.\n87) Management games are considered an effective training tool because trainees are actively\ninvolved, and the activities help trainees focus on planning and solving problems.\nAnswer: TRUE\nExplanation: Management games are effective. People learn best by being involved, and games\ngain such involvement. They also help trainees develop their problem-solving skills, and to focus\nattention on planning rather than just putting out fires.\nDifficulty: Moderate\nChapter: 8\nObjective: 5\nAACSB: Analytical Thinking\nLearning Outcome: 8.5 List and briefly discuss four management development methods.\n88) Both action learning and management games require trainees to work in groups. In a brief\nessay, explain the similarities and differences between the two management development\ntechniques.\nAnswer: Action learning programs give managers and others released time to work analyzing\nand solving problems in departments other than their own. The basics include carefully selected\nteams of 5 to 25 members, assigning the teams real-world business problems that extend beyond\ntheir usual areas of expertise, and structured learning through coaching and feedback. The\nemployer's senior managers usually choose the projects and decide whether to accept the teams'\nrecommendations. With computerized management games, trainees divide into five- or six-\nperson groups, each of which competes with the others in a simulated marketplace. Each group\ntypically must decide, for example, (1) how much to spend on advertising, (2) how much to\nproduce, (3) how much inventory to maintain, and (4) how many of which product to produce.\nUsually, the game compresses a two- or three-year period into days, weeks, or months. As in the\nreal world, each company team usually can't see what decisions (such as to boost advertising) the\nother firms have made, although these decisions do affect their own sales.\nDifficulty: Hard\nChapter: 8\nObjective: 5\nAACSB: Application of Knowledge\nLearning Outcome: 8.5 List and briefly discuss four management development methods.\n37\nCopyright © 2017 Pearson Education, Inc.\n\n89) According to Kurt Lewin, in order for organizational change to occur, which stage must\noccur first?",
+        "question_number": "89",
+        "description": "occur first? and refreezing are the next steps in the process.",
         "options": {
             "A": "unfreezing",
             "B": "moving",
@@ -829,12 +829,12 @@
             "D": "freezing"
         },
         "answer": "A",
-        "explanation": "A) Kurt Lewin's model of change indicates that unfreezing is the first step. Moving\nand refreezing are the next steps in the process."
+        "explanation": "A) Kurt Lewin's model of change indicates that unfreezing is the first step. Moving"
     },
     {
         "chapter": "8",
-        "question_number": "90)",
-        "description": "According to Kurt Lewin, all of the following should occur in the moving stage of\norganizational change EXCEPT ________.",
+        "question_number": "90",
+        "description": "organizational change EXCEPT ________. developing a vision, consolidating gains, and creating a leading coalition. Mobilizing commitment occurs in the unfreezing stage.",
         "options": {
             "A": "developing a vision",
             "B": "mobilizing commitment",
@@ -842,12 +842,12 @@
             "D": "creating a leading coalition"
         },
         "answer": "B",
-        "explanation": "B) The moving stage is characterized by helping employees make the change,\ndeveloping a vision, consolidating gains, and creating a leading coalition. Mobilizing\ncommitment occurs in the unfreezing stage."
+        "explanation": "B) The moving stage is characterized by helping employees make the change,"
     },
     {
         "chapter": "8",
-        "question_number": "91)",
-        "description": "________ is an approach to organizational change in which the employees formulate the\nchange that's required and implement it.",
+        "question_number": "91",
+        "description": "change that's required and implement it. formulate the change that's required and implement it, often with the assistance of trained consultants.",
         "options": {
             "A": "Action research",
             "B": "Succession planning",
@@ -855,12 +855,12 @@
             "D": "Participative talent management"
         },
         "answer": "C",
-        "explanation": "C) Organizational development is a change process through which employees\nformulate the change that's required and implement it, often with the assistance of trained\nconsultants."
+        "explanation": "C) Organizational development is a change process through which employees"
     },
     {
         "chapter": "8",
-        "question_number": "92)",
-        "description": "________ means collecting data about a group, department, or organization, and feeding the\ninformation back to the employees so they can analyze it and develop hypotheses about what the\nproblems might be.",
+        "question_number": "92",
+        "description": "information back to the employees so they can analyze it and develop hypotheses about what the problems might be. organization, and feeding the information back to the employees so they can analyze it and develop hypotheses about what the problems might be.",
         "options": {
             "A": "Laboratory training",
             "B": "Action research",
@@ -868,12 +868,12 @@
             "D": "Diversity training"
         },
         "answer": "B",
-        "explanation": "B) Action research means collecting data about a group, department, or\norganization, and feeding the information back to the employees so they can analyze it and\ndevelop hypotheses about what the problems might be."
+        "explanation": "B) Action research means collecting data about a group, department, or"
     },
     {
         "chapter": "8",
-        "question_number": "93)",
-        "description": "Which organizational development application involves methods like performance\nappraisals, reward systems, and diversity programs?",
+        "question_number": "93",
+        "description": "appraisals, reward systems, and diversity programs? technostructural, human resource management, and strategic applications. HR management involves performance appraisals, reward systems, diversity programs, and goal setting.",
         "options": {
             "A": "human process",
             "B": "strategic applications",
@@ -881,12 +881,12 @@
             "D": "human resource management"
         },
         "answer": "D",
-        "explanation": "D) There are four basic categories of OD applications: human process,\ntechnostructural, human resource management, and strategic applications. HR management\ninvolves performance appraisals, reward systems, diversity programs, and goal setting."
+        "explanation": "D) There are four basic categories of OD applications: human process,"
     },
     {
         "chapter": "8",
-        "question_number": "94)",
-        "description": "Lewin's change process consists of unfreezing, moving, and refreezing.\nAnswer: TRUE\nExplanation: Psychologist Kurt Lewin formulated a model of change to summarize what he\nbelieved was the basic process for implementing a change with minimal resistance. Lewin's\nprocess consists of unfreezing, moving, and freezing.\nDifficulty: Moderate\nChapter: 8\nObjective: 6\nAACSB: Analytical Thinking\nLearning Outcome: 8.6 List and briefly discuss the importance of the steps in leading\norganizational change.\n95) According to Lewin's change process, unfreezing involves developing new behaviors,\nvalues, and attitudes through organizational development methods such as team building.\nAnswer: FALSE\nExplanation: Unfreezing means reducing the forces that are striving to maintain the status quo,\nusually by presenting a provocative problem or event to get people to recognize the need for\nchange and to search for new solutions. Moving means developing new behaviors, values, and\nattitudes. The manager may accomplish this through organizational development techniques.\nDifficulty: Moderate\nChapter: 8\nObjective: 6\nAACSB: Analytical Thinking\nLearning Outcome: 8.6 List and briefly discuss the importance of the steps in leading\norganizational change.\n40\nCopyright © 2017 Pearson Education, Inc.\n\n96) During the refreezing stage of Lewin's change process, managers are likely to use new\nappraisal systems and incentives as a way to reinforce desired behaviors.\nAnswer: TRUE\nExplanation: During the refreezing stage, managers reinforce the new ways of doing things with\nchanges to the company's systems and procedures. This is done by using new appraisal systems\nand incentives to reinforce the desired behaviors.\nDifficulty: Moderate\nChapter: 8\nObjective: 6\nAACSB: Analytical Thinking\nLearning Outcome: 8.6 List and briefly discuss the importance of the steps in leading\norganizational change.\n97) During the unfreezing stage of organizational change, managers need to establish a sense of\nurgency, which may be accomplished by providing employees with reports indicating that the\nfirm faces significant problems.\nAnswer: TRUE\nExplanation: Most managers start by creating a sense of urgency during the unfreezing stage.\nThis often takes creativity. For example, the CEO might present executives with a (fictitious)\nanalyst's report describing the firm's imminent demise.\nDifficulty: Easy\nChapter: 8\nObjective: 6\nAACSB: Analytical Thinking\nLearning Outcome: 8.6 List and briefly discuss the importance of the steps in leading\norganizational change.\n98) The human process category of organizational development includes T-groups, process\nconsultation, and third-party intervention.\nAnswer: TRUE\nExplanation: The human process category of OD includes T-groups, process consultation, third-\nparty intervention, team building, organizational confrontation meetings, and survey research.\nDifficulty: Moderate\nChapter: 8\nObjective: 6\nAACSB: Analytical Thinking\nLearning Outcome: 8.6 List and briefly discuss the importance of the steps in leading\norganizational change.\n41\nCopyright © 2017 Pearson Education, Inc.\n\n99) Organizational development is usually characterized by the use of action research and the\napplication of behavioral science knowledge.\nAnswer: TRUE\nExplanation: OD usually involves action research, which means collecting data about a group,\ndepartment, or organization, and feeding the information back to the employees so they can\nanalyze it and develop hypotheses about what the problems in the unit might be. OD also\ninvolves the application of behavioral science knowledge to improve the organization's\neffectiveness.\nDifficulty: Moderate\nChapter: 8\nObjective: 6\nAACSB: Analytical Thinking\nLearning Outcome: 8.6 List and briefly discuss the importance of the steps in leading\norganizational change.\n100) Organizational development interventions in the area of human resource management most\nlikely involve changing a firm's formal structure.\nAnswer: FALSE\nExplanation: OD practitioners make technostructural interventions when they get involved in\nchanging firms' structures, methods, and job designs. For example, in a formal structural change\nprogram, the employees collect data on the company's existing organizational structure; they\nthen jointly redesign and implement a new one.\nDifficulty: Moderate\nChapter: 8\nObjective: 6\nAACSB: Analytical Thinking\nLearning Outcome: 8.6 List and briefly discuss the importance of the steps in leading\norganizational change.\n101) Survey research and team building are technostructural organizational development\ntechniques.\nAnswer: FALSE\nExplanation: Survey research, team building, and T-groups are OD techniques related to the\nhuman process rather than technostructural issues.\nDifficulty: Moderate\nChapter: 8\nObjective: 5\nAACSB: Analytical Thinking\nLearning Outcome: 8.6 List and briefly discuss the importance of the steps in leading\norganizational change.\n42\nCopyright © 2017 Pearson Education, Inc.\n\n102) In a brief essay, discuss the theory behind Kurt Lewin's model of change. According to\nLewin, what is the process that should be followed to implement organizational change?\nAnswer: According to Lewin, all behavior in organizations is a product of two kinds of forces—\nthose striving to maintain the status quo and those pushing for change. Implementing change\nmeans either weakening the status quo forces or building up the forces for change. Lewin's\nchange process consists of three steps: 1) unfreezing the forces that seek to maintain the status\nquo, 2) moving to develop new behaviors and attitudes, and 3) refreezing the organization into\nits new system to prevent it from reverting to its old ways.\nDifficulty: Hard\nChapter: 8\nObjective: 6\nAACSB: Analytical Thinking\nLearning Outcome: 8.6 List and briefly discuss the importance of the steps in leading\norganizational change.\n103) What is meant by the idea of organizational change? How does organizational development\nfacilitate organizational change?\nAnswer: Managers can change one or more of five aspects of their companies—their strategy,\nculture, structure, technologies, or the attitudes and skills of the employees. Organizational\nchange often begins with a change in the firm's strategy, mission, and vision—with strategic\nchange. However, strategic, cultural, structural, and technological changes will fail without the\nemployees' active support. Organizational change therefore invariably involves bringing about\nchanges in the employees themselves and in their attitudes, skills, and behaviors. Unfortunately,\ngetting that active support (or at least silent compliance) from your employees is easier said than\ndone. The manager invariably runs into employee resistance. Knowing how to deal with that\nresistance is the heart of implementing an organizational change program. Organizational\ndevelopment is a change process through which employees formulate the change that's required\nand implement it, often with the assistance of trained consultants.\nDifficulty: Hard\nChapter: 8\nObjective: 6\nAACSB: Analytical Thinking\nLearning Outcome: 8.6 List and briefly discuss the importance of the steps in leading\norganizational change.\n43\nCopyright © 2017 Pearson Education, Inc.\n\n104) Which of the following is most likely NOT measured when evaluating a training program?",
+        "question_number": "104",
+        "description": "as the participants' reactions to the program, what (if anything) the trainees learned from the program, and to what extent their on-the-job behavior or results changed as a result of the program. It would be difficult to link overall organizational productivity to a training program.",
         "options": {
             "A": "what trainees learned from the program",
             "B": "participants' reactions to the program",
@@ -894,12 +894,12 @@
             "D": "changes in on-the-job behavior"
         },
         "answer": "C",
-        "explanation": "C) There are several things firms can measure to evaluate a training program, such\nas the participants' reactions to the program, what (if anything) the trainees learned from the\nprogram, and to what extent their on-the-job behavior or results changed as a result of the\nprogram. It would be difficult to link overall organizational productivity to a training program."
+        "explanation": "C) There are several things firms can measure to evaluate a training program, such"
     },
     {
         "chapter": "8",
-        "question_number": "105)",
-        "description": "Which of the following terms refers to a formal method for testing the effectiveness of a\ntraining program?",
+        "question_number": "105",
+        "description": "training program? receives no training to test the effectiveness of a training program. Data are obtained both before and after the group is exposed to training and before and after a corresponding work period in the control group.",
         "options": {
             "A": "electronic performance monitoring",
             "B": "factor comparison method",
@@ -907,6 +907,6 @@
             "D": "performance management"
         },
         "answer": "C",
-        "explanation": "C) A controlled experiment uses both a training group and a control group that\nreceives no training to test the effectiveness of a training program. Data are obtained both before\nand after the group is exposed to training and before and after a corresponding work period in the\ncontrol group."
+        "explanation": "C) A controlled experiment uses both a training group and a control group that"
     }
 ]
