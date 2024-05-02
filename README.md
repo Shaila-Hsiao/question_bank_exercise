@@ -30,8 +30,9 @@ python app.py
     ![1713976025049](https://github.com/Shaila-Hsiao/question_bank_exercise/assets/105621058/3c736115-5d1c-49e0-be7a-269674065e78)
 
 ## fix
-- Json格式篩選題目有問題
-- 有返回鍵:
+- [X] Json 格式篩選題目有問題 
+- [ ] 是非題
+- [ ] 有返回鍵:
   - 返回選擇章節頁面重新選擇章節
   - 返回上一題
-- 紀錄練習過的題目
+- [ ] 紀錄練習過的題目
