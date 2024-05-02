@@ -10,7 +10,7 @@
             "D": "talent management"
         },
         "answer": "D",
-        "explanation": "D) Talent management is the holistic, integrated and results and goal-oriented\nprocess of planning, recruiting, selecting, developing, managing, and compensating employees\nTalent management means getting the right people (in terms of competencies) in the right jobs, at\nthe right time, doing their jobs correctly.\nDifficulty: Easy\nChapter: 4\nObjective: 1\nAACSB: Analytical Thinking\nLearning Outcome: 4.1 Define talent management and explain why it is important."
+        "explanation": "D) Talent management is the holistic, integrated and results and goal-oriented\nprocess of planning, recruiting, selecting, developing, managing, and compensating employees\nTalent management means getting the right people (in terms of competencies) in the right jobs, at\nthe right time, doing their jobs correctly."
     },
     {
         "chapter": "4",
@@ -23,12 +23,12 @@
             "D": "manage employees based on their experience with the organization"
         },
         "answer": "A",
-        "explanation": "A) An effective talent management process should integrate the underlying talent\nmanagement activities such as recruiting, developing, and compensating employees. The same\ncompetencies should be used for recruiting, training, and appraising. Firms should balance talent\nmanagement tasks with testing and proactively manage workers by segmenting them into groups.\nDifficulty: Moderate\nChapter: 4\nObjective: 1\nAACSB: Application of Knowledge\nLearning Outcome: 4.1 Define talent management and explain why it is important.\n1"
+        "explanation": "A) An effective talent management process should integrate the underlying talent\nmanagement activities such as recruiting, developing, and compensating employees. The same\ncompetencies should be used for recruiting, training, and appraising. Firms should balance talent\nmanagement tasks with testing and proactively manage workers by segmenting them into groups."
     },
     {
         "chapter": "4",
-        "question_number": "3)",
-        "description": "In an effective talent management system, an employee's performance appraisal would initiate\ntraining and development opportunities.\nAnswer: TRUE\nExplanation: An effective talent management process should integrate the underlying talent\nmanagement activities such as recruiting, developing, and compensating employees. For\nexample, performance appraisals should trigger the required employee training.\nDifficulty: Moderate\nChapter: 4\nObjective: 1\nAACSB: Analytical Thinking\nLearning Outcome: 4.1 Define talent management and explain why it is important.\n4) Effective talent management focuses on developing employee competencies that align with\nstrategic goals.\nAnswer: TRUE\nExplanation: Make sure talent management decisions such as staffing, training, and pay are\ngoal-directed. Managers should always be asking, \"What recruiting, testing, or other actions\nshould I take to produce the employee competencies we need to achieve our strategic goals?\"\nDifficulty: Moderate\nChapter: 4\nObjective: 1\nAACSB: Analytical Thinking\nLearning Outcome: 4.1 Define talent management and explain why it is important.\n5) Which of the following terms refers to the procedure used to determine the duties associated\nwith job positions and the characteristics of the people to hire for those positions?",
+        "question_number": "5)",
+        "description": "Which of the following terms refers to the procedure used to determine the duties associated\nwith job positions and the characteristics of the people to hire for those positions?",
         "options": {
             "A": "job description",
             "B": "job specification",
@@ -36,7 +36,7 @@
             "D": "job context"
         },
         "answer": "C",
-        "explanation": "C) Job analysis is the process of determining the duties of a specific job and the\ncharacteristics of the people who would be most appropriate for the job. A job analysis produces\nthe necessary information to develop job descriptions and job specifications.\nDifficulty: Easy\nChapter: 4\nObjective: 2\nAACSB: Analytical Thinking\nLearning Outcome: 4.2 Discuss the process of job analysis, including why it is important.\n2"
+        "explanation": "C) Job analysis is the process of determining the duties of a specific job and the\ncharacteristics of the people who would be most appropriate for the job. A job analysis produces\nthe necessary information to develop job descriptions and job specifications."
     },
     {
         "chapter": "4",
@@ -49,7 +49,7 @@
             "D": "training requirements"
         },
         "answer": "A",
-        "explanation": "A) A job description is a list of what a job entails, and it is derived from a job\nanalysis. Job analysis is the procedure through which you determine the duties of job positions\nand the characteristics of the people that should be hired for the positions.\nDifficulty: Easy\nChapter: 4\nObjective: 2\nAACSB: Analytical Thinking\nLearning Outcome: 4.2 Discuss the process of job analysis, including why it is important."
+        "explanation": "A) A job description is a list of what a job entails, and it is derived from a job\nanalysis. Job analysis is the procedure through which you determine the duties of job positions\nand the characteristics of the people that should be hired for the positions."
     },
     {
         "chapter": "4",
@@ -62,7 +62,7 @@
             "D": "employee benefits options"
         },
         "answer": "D",
-        "explanation": "D) Work activities, human behaviors, performance standards, job context, and\nhuman requirements are the types of information typically collected through a job analysis.\nInformation gathered through a job analysis is used to develop job descriptions and job\nspecifications. Managers use job analysis for the purpose of recruitment, compensation, training,\nand performance appraisal but not for assessing employee benefits options.\nDifficulty: Moderate\nChapter: 4\nObjective: 2\nAACSB: Analytical Thinking\nLearning Outcome: 4.2 Discuss the process of job analysis, including why it is important.\n3"
+        "explanation": "D) Work activities, human behaviors, performance standards, job context, and\nhuman requirements are the types of information typically collected through a job analysis.\nInformation gathered through a job analysis is used to develop job descriptions and job\nspecifications. Managers use job analysis for the purpose of recruitment, compensation, training,\nand performance appraisal but not for assessing employee benefits options."
     },
     {
         "chapter": "4",
@@ -75,7 +75,7 @@
             "D": "providing accurate performance appraisals"
         },
         "answer": "B",
-        "explanation": "B) Managers use information gathered from a job analysis for many activities\nincluding providing performance appraisals, recruiting, determining compensation, and assessing\ntraining requirements. Job analysis plays a major role in EEO (Equal Employment Opportunity\nCommission) compliance but not with FCC (Federal Communications Commission) regulations.\nDifficulty: Moderate\nChapter: 4\nObjective: 2\nAACSB: Analytical Thinking\nLearning Outcome: 4.2 Discuss the process of job analysis, including why it is important."
+        "explanation": "B) Managers use information gathered from a job analysis for many activities\nincluding providing performance appraisals, recruiting, determining compensation, and assessing\ntraining requirements. Job analysis plays a major role in EEO (Equal Employment Opportunity\nCommission) compliance but not with FCC (Federal Communications Commission) regulations."
     },
     {
         "chapter": "4",
@@ -88,7 +88,7 @@
             "D": "OSHA and EEO compliance"
         },
         "answer": "A",
-        "explanation": "A) Compensation in the form of salaries and bonuses greatly depends upon a job's\nrequired skills, education level, safety hazards, and level of responsibility. Managers use the job\nanalysis to determine the relative worth of a specific job and the most appropriate compensation\nfor an employee.\nDifficulty: Moderate\nChapter: 4\nObjective: 2\nAACSB: Analytical Thinking\nLearning Outcome: 4.2 Discuss the process of job analysis, including why it is important.\n4"
+        "explanation": "A) Compensation in the form of salaries and bonuses greatly depends upon a job's\nrequired skills, education level, safety hazards, and level of responsibility. Managers use the job\nanalysis to determine the relative worth of a specific job and the most appropriate compensation\nfor an employee."
     },
     {
         "chapter": "4",
@@ -101,7 +101,7 @@
             "D": "job analysis"
         },
         "answer": "D",
-        "explanation": "D) A job analysis is needed for each job at a firm to ensure compliance with the\nEEOC. According to the U.S. Federal Agencies' Uniform Guidelines on Employee Selection, a\njob analysis is needed to validate all major human resource activities. A firm that is in\ncompliance with the Americans with Disabilities Act, for example, should know the essential job\nfunctions of each job which requires a job analysis.\nDifficulty: Moderate\nChapter: 4\nObjective: 2\nAACSB: Application of Knowledge\nLearning Outcome: 4.2 Discuss the process of job analysis, including why it is important."
+        "explanation": "D) A job analysis is needed for each job at a firm to ensure compliance with the\nEEOC. According to the U.S. Federal Agencies' Uniform Guidelines on Employee Selection, a\njob analysis is needed to validate all major human resource activities. A firm that is in\ncompliance with the Americans with Disabilities Act, for example, should know the essential job\nfunctions of each job which requires a job analysis."
     },
     {
         "chapter": "4",
@@ -114,7 +114,7 @@
             "D": "performance standards"
         },
         "answer": "C",
-        "explanation": "C) Job analysis can help reveal duties that need to be assigned to a specific\nemployee. Work activities, performance standards, and job context are the types of information\nthat are provided through a job analysis.\nDifficulty: Moderate\nChapter: 4\nObjective: 2\nAACSB: Application of Knowledge\nLearning Outcome: 4.2 Discuss the process of job analysis, including why it is important.\n5"
+        "explanation": "C) Job analysis can help reveal duties that need to be assigned to a specific\nemployee. Work activities, performance standards, and job context are the types of information\nthat are provided through a job analysis."
     },
     {
         "chapter": "4",
@@ -127,7 +127,7 @@
             "D": "job description"
         },
         "answer": "D",
-        "explanation": "D) Job descriptions list the specific duties, skills, and training related to a\nparticular job. Organization charts show the distribution of work within a company but not\nspecific duties. A job description is created after a job analysis has been performed.\nDifficulty: Easy\nChapter: 4\nObjective: 2\nAACSB: Analytical Thinking\nLearning Outcome: 4.2 Discuss the process of job analysis, including why it is important."
+        "explanation": "D) Job descriptions list the specific duties, skills, and training related to a\nparticular job. Organization charts show the distribution of work within a company but not\nspecific duties. A job description is created after a job analysis has been performed."
     },
     {
         "chapter": "4",
@@ -140,7 +140,7 @@
             "D": "reviewing relevant background information"
         },
         "answer": "A",
-        "explanation": "A) The first step in performing a job analysis is deciding how the job analysis will\nbe used because this determines the data that will be collected and how it will be collected.\nCollecting data, selecting which job positions to analyze, reviewing background information like\norganization charts and process charts, and writing job descriptions are additional steps in the job\nanalysis process.\nDifficulty: Moderate\nChapter: 4\nObjective: 2\nAACSB: Application of Knowledge\nLearning Outcome: 4.2 Discuss the process of job analysis, including why it is important.\n6"
+        "explanation": "A) The first step in performing a job analysis is deciding how the job analysis will\nbe used because this determines the data that will be collected and how it will be collected.\nCollecting data, selecting which job positions to analyze, reviewing background information like\norganization charts and process charts, and writing job descriptions are additional steps in the job\nanalysis process."
     },
     {
         "chapter": "4",
@@ -153,7 +153,7 @@
             "D": "developing a job process chart"
         },
         "answer": "B",
-        "explanation": "B) Interviewing employees to determine what the job entails is an effective method\nof collecting data for writing a job description. Position analysis questionnaires are useful for\ncompensation purposes rather than for writing job descriptions.\nDifficulty: Moderate\nChapter: 4\nObjective: 2\nAACSB: Application of Knowledge\nLearning Outcome: 4.2 Discuss the process of job analysis, including why it is important."
+        "explanation": "B) Interviewing employees to determine what the job entails is an effective method\nof collecting data for writing a job description. Position analysis questionnaires are useful for\ncompensation purposes rather than for writing job descriptions."
     },
     {
         "chapter": "4",
@@ -166,7 +166,7 @@
             "D": "job context"
         },
         "answer": "C",
-        "explanation": "C) A job description is a written list of a job's duties, responsibilities, reporting\nrelationships, working conditions, and supervisory responsibilities, and it is the result of a job\nanalysis.\nDifficulty: Easy\nChapter: 4\nObjective: 2\nAACSB: Analytical Thinking\nLearning Outcome: 4.2 Discuss the process of job analysis, including why it is important."
+        "explanation": "C) A job description is a written list of a job's duties, responsibilities, reporting\nrelationships, working conditions, and supervisory responsibilities, and it is the result of a job\nanalysis."
     },
     {
         "chapter": "4",
@@ -179,7 +179,7 @@
             "D": "job descriptions"
         },
         "answer": "A",
-        "explanation": "A) Job specifications are the human requirements needed for a particular job like\neducation, skills, and personality.\nDifficulty: Easy\nChapter: 4\nObjective: 2\nAACSB: Analytical Thinking\nLearning Outcome: 4.2 Discuss the process of job analysis, including why it is important.\n7"
+        "explanation": "A) Job specifications are the human requirements needed for a particular job like\neducation, skills, and personality."
     },
     {
         "chapter": "4",
@@ -192,7 +192,7 @@
             "D": "working conditions"
         },
         "answer": "D",
-        "explanation": "D) Working conditions, responsibilities, and job duties are addressed in a job\ndescription rather than the job specifications. Job specifications focus on the human requirements\nfor a job, such as personality, education, skills, and experience.\nDifficulty: Moderate\nChapter: 4\nObjective: 2\nAACSB: Analytical Thinking\nLearning Outcome: 4.2 Discuss the process of job analysis, including why it is important."
+        "explanation": "D) Working conditions, responsibilities, and job duties are addressed in a job\ndescription rather than the job specifications. Job specifications focus on the human requirements\nfor a job, such as personality, education, skills, and experience."
     },
     {
         "chapter": "4",
@@ -205,7 +205,7 @@
             "D": "corporate overview"
         },
         "answer": "C",
-        "explanation": "C) Organization charts show the organization-wide division of work with titles of\neach position and interconnecting lines that show who reports to and communicates with whom.\nDifficulty: Easy\nChapter: 4\nObjective: 2\nAACSB: Analytical Thinking\nLearning Outcome: 4.2 Discuss the process of job analysis, including why it is important."
+        "explanation": "C) Organization charts show the organization-wide division of work with titles of\neach position and interconnecting lines that show who reports to and communicates with whom."
     },
     {
         "chapter": "4",
@@ -218,7 +218,7 @@
             "D": "job description"
         },
         "answer": "B",
-        "explanation": "B) A process chart is a work-flow chart that shows the flow of inputs to and\noutputs from a particular job. In the second step of performing a job analysis, background\ninformation such as process charts, organization charts, and job descriptions are reviewed.\nDifficulty: Easy\nChapter: 4\nObjective: 2\nAACSB: Analytical Thinking\nLearning Outcome: 4.2 Discuss the process of job analysis, including why it is important.\n8"
+        "explanation": "B) A process chart is a work-flow chart that shows the flow of inputs to and\noutputs from a particular job. In the second step of performing a job analysis, background\ninformation such as process charts, organization charts, and job descriptions are reviewed."
     },
     {
         "chapter": "4",
@@ -231,7 +231,7 @@
             "D": "a quantifiable worker skill"
         },
         "answer": "C",
-        "explanation": "C) Workflow analysis is a detailed study of the flow of work from job to job in a\nwork process. Usually, the analyst focuses on one identifiable work process, rather than on how\nthe company gets all its work done.\nDifficulty: Moderate\nChapter: 4\nObjective: 2\nAACSB: Analytical Thinking\nLearning Outcome: 4.2 Discuss the process of job analysis, including why it is important."
+        "explanation": "C) Workflow analysis is a detailed study of the flow of work from job to job in a\nwork process. Usually, the analyst focuses on one identifiable work process, rather than on how\nthe company gets all its work done."
     },
     {
         "chapter": "4",
@@ -244,7 +244,7 @@
             "D": "developing employee skills and behaviors"
         },
         "answer": "A",
-        "explanation": "A) Business process reengineering means redesigning business processes, usually\nby combining steps so that small multi-function process teams using information technology to\ndo the jobs formerly done by a sequence of departments.\nDifficulty: Moderate\nChapter: 4\nObjective: 2\nAACSB: Analytical Thinking\nLearning Outcome: 4.2 Discuss the process of job analysis, including why it is important."
+        "explanation": "A) Business process reengineering means redesigning business processes, usually\nby combining steps so that small multi-function process teams using information technology to\ndo the jobs formerly done by a sequence of departments."
     },
     {
         "chapter": "4",
@@ -257,7 +257,7 @@
             "D": "assemble the job specifications list"
         },
         "answer": "C",
-        "explanation": "C) The third step of the job analysis process involves selecting representative\npositions to analyze. If there are too many similar jobs in a firm, it is best to select a\nrepresentative sample. After representative positions have been chosen, analysis of the job can\noccur, which may include interviewing employees or using questionnaires. Job specifications are\nnot developed until the final step of the job analysis process.\nDifficulty: Hard\nChapter: 4\nObjective: 2\nAACSB: Analytical Thinking\nLearning Outcome: 4.2 Discuss the process of job analysis, including why it is important.\n9"
+        "explanation": "C) The third step of the job analysis process involves selecting representative\npositions to analyze. If there are too many similar jobs in a firm, it is best to select a\nrepresentative sample. After representative positions have been chosen, analysis of the job can\noccur, which may include interviewing employees or using questionnaires. Job specifications are\nnot developed until the final step of the job analysis process."
     },
     {
         "chapter": "4",
@@ -270,7 +270,7 @@
             "D": "specific job activities"
         },
         "answer": "C",
-        "explanation": "C) The fourth step in analyzing a job requires collecting data about job activities,\nrequired employee behaviors, working conditions, and human traits and abilities needed to\nperform the job. Interviews, questionnaires, and observations are the most popular methods for\ngathering data. It is unlikely that data regarding employee turnover rates would be gathered\nduring a job analysis.\nDifficulty: Moderate\nChapter: 4\nObjective: 2\nAACSB: Analytical Thinking\nLearning Outcome: 4.2 Discuss the process of job analysis, including why it is important."
+        "explanation": "C) The fourth step in analyzing a job requires collecting data about job activities,\nrequired employee behaviors, working conditions, and human traits and abilities needed to\nperform the job. Interviews, questionnaires, and observations are the most popular methods for\ngathering data. It is unlikely that data regarding employee turnover rates would be gathered\nduring a job analysis."
     },
     {
         "chapter": "4",
@@ -283,7 +283,7 @@
             "D": "worker"
         },
         "answer": "D",
-        "explanation": "D) According to the fifth step of a job analysis, collected data should be confirmed\nwith the worker performing the job and his/her immediate supervisor. Although HR managers\nplay a role in the job analysis process by observing workers, it is the worker and his/her\nimmediate supervisor that provide direct knowledge of the duties involved in a specific job.\nDifficulty: Moderate\nChapter: 4\nObjective: 2\nAACSB: Analytical Thinking\nLearning Outcome: 4.2 Discuss the process of job analysis, including why it is important.\n10"
+        "explanation": "D) According to the fifth step of a job analysis, collected data should be confirmed\nwith the worker performing the job and his/her immediate supervisor. Although HR managers\nplay a role in the job analysis process by observing workers, it is the worker and his/her\nimmediate supervisor that provide direct knowledge of the duties involved in a specific job."
     },
     {
         "chapter": "4",
@@ -296,7 +296,7 @@
             "D": "validate the job specification list provided by HR"
         },
         "answer": "A",
-        "explanation": "A) Allowing employees to review and modify the information collected about their\ncurrent positions provides the opportunity to confirm that the data is correct and complete, which\nmay help gain employee acceptance of the job analysis data and conclusions. Job specifications\nand job descriptions are created after employees review the collected data.\nDifficulty: Hard\nChapter: 4\nObjective: 2\nAACSB: Analytical Thinking\nLearning Outcome: 4.2 Discuss the process of job analysis, including why it is important."
+        "explanation": "A) Allowing employees to review and modify the information collected about their\ncurrent positions provides the opportunity to confirm that the data is correct and complete, which\nmay help gain employee acceptance of the job analysis data and conclusions. Job specifications\nand job descriptions are created after employees review the collected data."
     },
     {
         "chapter": "4",
@@ -309,7 +309,7 @@
             "D": "reviewing relevant background information"
         },
         "answer": "A",
-        "explanation": "A) The final step in the job analysis process involves developing a job description\nand job specifications, which are the two tangible products of a job analysis. This step occurs\nafter job data has been collected and validated, and background information has been reviewed.\nDifficulty: Moderate\nChapter: 4\nObjective: 2\nAACSB: Analytical Thinking\nLearning Outcome: 4.2 Discuss the process of job analysis, including why it is important.\n11"
+        "explanation": "A) The final step in the job analysis process involves developing a job description\nand job specifications, which are the two tangible products of a job analysis. This step occurs\nafter job data has been collected and validated, and background information has been reviewed."
     },
     {
         "chapter": "4",
@@ -322,7 +322,7 @@
             "D": "descriptions"
         },
         "answer": "A",
-        "explanation": "A) Job specifications summarize the personal qualities, traits, skills, and\nbackground required for getting a job done. Murray, Inc. wants detail-oriented, motivated\nemployees, which would be described in the firm's job specifications. Job descriptions address\nthe activities and responsibilities of a job. Both job descriptions and job specifications are\nproducts of a job analysis.\nDifficulty: Moderate\nChapter: 4\nObjective: 2\nAACSB: Application of Knowledge\nLearning Outcome: 4.2 Discuss the process of job analysis, including why it is important."
+        "explanation": "A) Job specifications summarize the personal qualities, traits, skills, and\nbackground required for getting a job done. Murray, Inc. wants detail-oriented, motivated\nemployees, which would be described in the firm's job specifications. Job descriptions address\nthe activities and responsibilities of a job. Both job descriptions and job specifications are\nproducts of a job analysis."
     },
     {
         "chapter": "4",
@@ -335,7 +335,7 @@
             "D": "redundant information gathered during a job analysis"
         },
         "answer": "C",
-        "explanation": "C) Conducting a job analysis can be time-consuming because it may take days to\ninterview multiple employees and their managers, which is why an abbreviated version is often\nused by managers. The information gathered through a job analysis is typically verifiable and\nuseful, and the main cost is time rather than money.\nDifficulty: Hard\nChapter: 4\nObjective: 2\nAACSB: Analytical Thinking\nLearning Outcome: 4.2 Discuss the process of job analysis, including why it is important.\n12"
+        "explanation": "C) Conducting a job analysis can be time-consuming because it may take days to\ninterview multiple employees and their managers, which is why an abbreviated version is often\nused by managers. The information gathered through a job analysis is typically verifiable and\nuseful, and the main cost is time rather than money."
     },
     {
         "chapter": "4",
@@ -348,7 +348,7 @@
             "D": "rotation"
         },
         "answer": "C",
-        "explanation": "C) Job enlargement refers to assigning workers additional same-level activities.\nFor example, a worker who previously only bolted the seat to the legs of a chair might attach the\nback as well.\nDifficulty: Easy\nChapter: 4\nObjective: 2\nAACSB: Analytical Thinking\nLearning Outcome: 4.2 Discuss the process of job analysis, including why it is important."
+        "explanation": "C) Job enlargement refers to assigning workers additional same-level activities.\nFor example, a worker who previously only bolted the seat to the legs of a chair might attach the\nback as well."
     },
     {
         "chapter": "4",
@@ -361,7 +361,7 @@
             "D": "job adjustment"
         },
         "answer": "A",
-        "explanation": "A) Job rotation refers to systematically moving workers from one job to another.\nDifficulty: Easy\nChapter: 4\nObjective: 2\nAACSB: Analytical Thinking\nLearning Outcome: 4.2 Discuss the process of job analysis, including why it is important."
+        "explanation": "A) Job rotation refers to systematically moving workers from one job to another."
     },
     {
         "chapter": "4",
@@ -374,7 +374,7 @@
             "D": "job enlargement"
         },
         "answer": "B",
-        "explanation": "B) Job enrichment refers to redesigning jobs in a way that increases the\nopportunities for the worker to experience feelings of responsibility, achievement, growth, and\nrecognition. Job enrichment is considered by some experts as the best way to motivate workers\nthrough worker empowerment.\nDifficulty: Easy\nChapter: 4\nObjective: 2\nAACSB: Analytical Thinking\nLearning Outcome: 4.2 Discuss the process of job analysis, including why it is important.\n13"
+        "explanation": "B) Job enrichment refers to redesigning jobs in a way that increases the\nopportunities for the worker to experience feelings of responsibility, achievement, growth, and\nrecognition. Job enrichment is considered by some experts as the best way to motivate workers\nthrough worker empowerment."
     },
     {
         "chapter": "4",
@@ -387,7 +387,7 @@
             "D": "Abraham Maslow"
         },
         "answer": "C",
-        "explanation": "C) Psychologist Frederick Herzberg argued that the best way to motivate workers\nis to build opportunities for challenge and achievement into their jobs via job enrichment. Job\nenrichment means redesigning jobs in a way that increases the opportunities for the worker to\nexperience feelings of responsibility, achievement, growth, and recognition.\nDifficulty: Moderate\nChapter: 4\nObjective: 2\nAACSB: Analytical Thinking\nLearning Outcome: 4.2 Discuss the process of job analysis, including why it is important."
+        "explanation": "C) Psychologist Frederick Herzberg argued that the best way to motivate workers\nis to build opportunities for challenge and achievement into their jobs via job enrichment. Job\nenrichment means redesigning jobs in a way that increases the opportunities for the worker to\nexperience feelings of responsibility, achievement, growth, and recognition."
     },
     {
         "chapter": "4",
@@ -400,7 +400,7 @@
             "D": "job specialization"
         },
         "answer": "B",
-        "explanation": "B) Job rotation refers to systematically moving workers from one job to another, so\nwhen Jack moves from department to department he is participating in job rotation.\nDifficulty: Easy\nChapter: 4\nObjective: 2\nAACSB: Application of Knowledge\nLearning Outcome: 4.2 Discuss the process of job analysis, including why it is important.\n14"
+        "explanation": "B) Job rotation refers to systematically moving workers from one job to another, so\nwhen Jack moves from department to department he is participating in job rotation."
     },
     {
         "chapter": "4",
@@ -413,12 +413,12 @@
             "D": "job enlargement"
         },
         "answer": "B",
-        "explanation": "B) Reengineering, or business process reengineering, refers to redesigning a\nbusiness process so that small multidisciplinary self-managing teams complete a task together.\nThis differs from the typical business process which is similar to a relay race where one person\ncompletes a step and then passes the task to another person.\nDifficulty: Easy\nChapter: 4\nObjective: 2\nAACSB: Analytical Thinking\nLearning Outcome: 4.2 Discuss the process of job analysis, including why it is important."
+        "explanation": "B) Reengineering, or business process reengineering, refers to redesigning a\nbusiness process so that small multidisciplinary self-managing teams complete a task together.\nThis differs from the typical business process which is similar to a relay race where one person\ncompletes a step and then passes the task to another person."
     },
     {
         "chapter": "4",
-        "question_number": "35)",
-        "description": "The information gathered during a job analysis is primarily used to ensure that firms are in\ncompliance with the EEO, OSHA, and all state governments.\nAnswer: FALSE\nExplanation: The primary use for information gathered in a job analysis is writing job\ndescriptions and job specifications. Although job analysis is required for EEO compliance, job\nanalysis is not required by the Occupational Safety and Health Administration or all state\ngovernments.\nDifficulty: Easy\nChapter: 4\nObjective: 2\nAACSB: Analytical Thinking\nLearning Outcome: 4.2 Discuss the process of job analysis, including why it is important.\n36) Organization charts show the division of work throughout the organization, how a job relates\nto others, and where a job fits in the organization.\nAnswer: TRUE\nExplanation: An organization chart shows the organization-wide distribution of work, with titles\nof each position and interconnecting lines that show who reports to and communicates with\nwhom.\nDifficulty: Easy\nChapter: 4\nObjective: 2\nAACSB: Analytical Thinking\nLearning Outcome: 4.2 Discuss the process of job analysis, including why it is important.\n15\n\n\n37) A process chart provides relevant background information during the job analysis process by\nindicating job titles and lines of communication.\nAnswer: FALSE\nExplanation: A process chart shows the flow of inputs to and outputs from a job being analyzed.\nDifficulty: Moderate\nChapter: 4\nObjective: 2\nAACSB: Analytical Thinking\nLearning Outcome: 4.2 Discuss the process of job analysis, including why it is important.\n38) After identifying a business process to redesign, the next step in business process\nreengineering is measuring the performance of the existing process.\nAnswer: TRUE\nExplanation: Business process reengineering means redesigning business processes, usually by\ncombining steps so that small multi-function process teams using information technology do the\njobs formerly done by a sequence of departments. After choosing the business process to\nredesign, the analyst needs to assess the performance of the existing process for the purpose of\nidentifying improvement possibilities.\nDifficulty: Moderate\nChapter: 4\nObjective: 2\nAACSB: Analytical Thinking\nLearning Outcome: 4.2 Discuss the process of job analysis, including why it is important.\n39) Conducting the job analysis is the sole responsibility of the HR specialist.\nAnswer: FALSE\nExplanation: Job analysis should be a joint effort by a human resources specialist, the worker,\nand the worker's supervisor. The HR manager may observe the worker and then have the\nsupervisor and worker fill out questionnaires.\nDifficulty: Moderate\nChapter: 4\nObjective: 2\nAACSB: Analytical Thinking\nLearning Outcome: 4.2 Discuss the process of job analysis, including why it is important.\n40) If a manager wants to know \"should a job even exist,\" a workflow analysis should be\nperformed.\nAnswer: TRUE\nExplanation: A workflow analysis does answer questions like \"should a job even exist,\" because\nit is a detailed study of the flow of work from job to job in a work process.\nDifficulty: Moderate\nChapter: 4\nObjective: 2\nAACSB: Analytical Thinking\nLearning Outcome: 4.2 Discuss the process of job analysis, including why it is important.\n16\n\n\n41) Job enlargement refers to redesigning jobs in a way that increases responsibility and\nachievement.\nAnswer: FALSE\nExplanation: Job enlargement refers to assigning workers additional same-level activities. For\nexample, a worker who previously only bolted the seat to the legs of a chair might attach the\nback as well. Job enrichment refers to redesigning jobs to increase responsibility and\nachievement.\nDifficulty: Easy\nChapter: 4\nObjective: 2\nAACSB: Analytical Thinking\nLearning Outcome: 4.2 Discuss the process of job analysis, including why it is important.\n42) In reengineered business processes, workers tend to become collectively responsible for\noverall results rather than individually responsible for just their own tasks.\nAnswer: TRUE\nExplanation: Business process reengineering involves redesigning a business process so that\nsmall multidisciplinary, self-managing teams get a task done together, all at once. Such a system\nleads to workers becoming collectively responsible for overall results rather than merely focused\non their individual tasks.\nDifficulty: Moderate\nChapter: 4\nObjective: 2\nAACSB: Analytical Thinking\nLearning Outcome: 4.2 Discuss the process of job analysis, including why it is important.\n43) How does job analysis support human resource management activities? Briefly describe one\nof the methods commonly used for gathering job analysis data.\nAnswer: Job analysis provides information for recruitment and selection by laying out what the\njob entails and what human characteristics are required to perform these activities. This\ninformation helps management decide what sort of people to recruit and hire. Job analysis\ninformation is also crucial for estimating the value of each job and its appropriate compensation.\nA performance appraisal compares each employee's actual performance with his or her\nperformance standards. Managers use job analysis to determine the job's specific activities and\nperformance standards.\nJob analysis interviews are one of the most commonly used methods for gathering job analysis\ndata. They range from completely unstructured interviews to highly structured ones containing\nhundreds of specific items to check off. Managers may conduct individual interviews with each\nemployee, group interviews with groups of employees who have the same job, and/or supervisor\ninterviews with one or more supervisors who know the job.\nDifficulty: Hard\nChapter: 4\nObjective: 2\nAACSB: Analytical Thinking\nLearning Outcome: 4.2 Discuss the process of job analysis, including why it is important.\n17\n\n\n44) What are the steps involved in the job analysis process? Briefly discuss the methods\navailable for collecting job analysis information.\nAnswer: There are six steps in doing a job analysis. Step 1: Decide How You Will Use the\nInformation. Step 2: Review Relevant Background Information about the Job, Such as\nOrganization Charts and Process Charts. Step 3: Select Representative Positions.\nStep 4: Actually Analyze the Job. Step 5: Verify the Job Analysis Information with the\nWorker Performing the Job and with His or Her Immediate Supervisor. Step 6: Develop a\nJob Description and Job Specification.\nThere are various ways (interviews or questionnaires, for instance) to collect information on a\njob's duties, responsibilities, and activities. In practice, you could use any one of them, or\ncombine several. The basic rule is to use those that best fit your purpose. Thus, an interview\nmight be best for creating a list of job duties and job descriptions. The more quantitative position\nanalysis questionnaire may be best for quantifying each job's relative worth for pay purposes.\nInterviews, questionnaires, observations, and diary/logs are the most popular methods for\ngathering job analysis data. They all provide realistic information about what job incumbents\nactually do.\nDifficulty: Hard\nChapter: 4\nObjective: 2\nAACSB: Analytical Thinking\nLearning Outcome: 4.2 Discuss the process of job analysis, including why it is important.\n45) What is the difference between job enlargement, job rotation, and job enrichment?\nAnswer: Job enlargement means assigning workers additional same-level activities. Thus, the\nworker who previously only bolted the seat to the legs might attach the back as well. Job rotation\nmeans systematically moving workers from one job to another. Psychologist Frederick Herzberg\nargued that the best way to motivate workers is through job enrichment. Job enrichment means\nredesigning jobs in a way that increases the opportunities for the worker to experience feelings of\nresponsibility, achievement, growth, and recognition. It does this by empowering the worker—\nfor instance, by giving the worker the skills and authority to inspect the work, instead of having\nsupervisors do that. Herzberg said empowered employees would do their jobs well because they\nwanted to, and quality and productivity would rise.\nDifficulty: Moderate\nChapter: 4\nObjective: 2\nAACSB: Analytical Thinking\nLearning Outcome: 4.2 Discuss the process of job analysis, including why it is important.\n18\n\n\n46) Which of the following guidelines is most likely recommended to managers conducting a job\nanalysis?",
+        "question_number": "46)",
+        "description": "Which of the following guidelines is most likely recommended to managers conducting a job\nanalysis?",
         "options": {
             "A": "Use one tool for gathering information to maintain the validity of the final results.",
             "B": "Rely on the human resource manager to complete questionnaires and verify data.",
@@ -426,7 +426,7 @@
             "D": "Ensure that the questions and the process are clarified to employees."
         },
         "answer": "D",
-        "explanation": "D) Managers should make sure that the job analysis process and the questions\nasked to employees are clear. Several tools should be used to gather information rather than only\none, and employees and supervisors typically complete questionnaires rather than HR managers.\nSupervisors should be included in group interviews.\nDifficulty: Hard\nChapter: 4\nObjective: 3\nAACSB: Analytical Thinking\nLearning Outcome: 4.3 Explain how to use at least three methods of collecting job analysis\ninformation, including interviews, questionnaires, and observation."
+        "explanation": "D) Managers should make sure that the job analysis process and the questions\nasked to employees are clear. Several tools should be used to gather information rather than only\none, and employees and supervisors typically complete questionnaires rather than HR managers.\nSupervisors should be included in group interviews."
     },
     {
         "chapter": "4",
@@ -439,7 +439,7 @@
             "D": "position analysis questionnaire"
         },
         "answer": "D",
-        "explanation": "D) The position analysis questionnaire's strength is in assigning jobs to job classes\nfor pay purposes. With ratings for each job's decision-making, skilled activity, physical activity,\nvehicle/equipment operation, and information-processing characteristics, you can quantitatively\ncompare jobs relative to one another and then classify jobs for pay purposes.\nDifficulty: Moderate\nChapter: 4\nObjective: 3\nAACSB: Analytical Thinking\nLearning Outcome: 4.3 Explain how to use at least three methods of collecting job analysis\ninformation, including interviews, questionnaires, and observation.\n19"
+        "explanation": "D) The position analysis questionnaire's strength is in assigning jobs to job classes\nfor pay purposes. With ratings for each job's decision-making, skilled activity, physical activity,\nvehicle/equipment operation, and information-processing characteristics, you can quantitatively\ncompare jobs relative to one another and then classify jobs for pay purposes."
     },
     {
         "chapter": "4",
@@ -452,7 +452,7 @@
             "D": "conducting telephone surveys of all employees"
         },
         "answer": "C",
-        "explanation": "C) When a large number of employees perform similar or identical work,\nconducting a group interview is a fast way to gather information. In most cases, the workers'\nimmediate supervisor attends the group session. It would be costly and time consuming to\nobserve each worker.\nDifficulty: Hard\nChapter: 4\nObjective: 3\nAACSB: Application of Knowledge\nLearning Outcome: 4.3 Explain how to use at least three methods of collecting job analysis\ninformation, including interviews, questionnaires, and observation."
+        "explanation": "C) When a large number of employees perform similar or identical work,\nconducting a group interview is a fast way to gather information. In most cases, the workers'\nimmediate supervisor attends the group session. It would be costly and time consuming to\nobserve each worker."
     },
     {
         "chapter": "4",
@@ -465,7 +465,7 @@
             "D": "Interviews may require managers to reveal the job analysis function."
         },
         "answer": "B",
-        "explanation": "B) The primary disadvantage of conducting employee interviews for the purpose\nof gathering job analysis data is the distortion of information. Employees may misunderstand the\npurpose of the interview and either purposely or mistakenly provide incorrect information.\nInterviews are considered a simple method for collecting detailed job information especially\nregarding uncommon but important employee activities.\nDifficulty: Hard\nChapter: 4\nObjective: 3\nAACSB: Analytical Thinking\nLearning Outcome: 4.3 Explain how to use at least three methods of collecting job analysis\ninformation, including interviews, questionnaires, and observation.\n20"
+        "explanation": "B) The primary disadvantage of conducting employee interviews for the purpose\nof gathering job analysis data is the distortion of information. Employees may misunderstand the\npurpose of the interview and either purposely or mistakenly provide incorrect information.\nInterviews are considered a simple method for collecting detailed job information especially\nregarding uncommon but important employee activities."
     },
     {
         "chapter": "4",
@@ -478,7 +478,7 @@
             "D": "personal hobbies"
         },
         "answer": "D",
-        "explanation": "D) Typical questions for job analysis interviews address subjects such as the job's\nmajor duties, hazardous conditions, performance standards, and required experience and\neducation. It is less likely that an interviewer would ask an employee questions not related\nspecifically to the job, such as personal questions about the worker's hobbies and free time.\nDifficulty: Easy\nChapter: 4\nObjective: 3\nAACSB: Analytical Thinking\nLearning Outcome: 4.3 Explain how to use at least three methods of collecting job analysis\ninformation, including interviews, questionnaires, and observation."
+        "explanation": "D) Typical questions for job analysis interviews address subjects such as the job's\nmajor duties, hazardous conditions, performance standards, and required experience and\neducation. It is less likely that an interviewer would ask an employee questions not related\nspecifically to the job, such as personal questions about the worker's hobbies and free time."
     },
     {
         "chapter": "4",
@@ -491,7 +491,7 @@
             "D": "organization chart"
         },
         "answer": "A",
-        "explanation": "A) A structured list or checklist is useful for guiding an interview or performing a\npersonal observation. Electronic diaries are completed by the worker and would not be used for\nobservations or interviews.\nDifficulty: Easy\nChapter: 4\nObjective: 3\nAACSB: Analytical Thinking\nLearning Outcome: 4.3 Explain how to use at least three methods of collecting job analysis\ninformation, including interviews, questionnaires, and observation.\n21"
+        "explanation": "A) A structured list or checklist is useful for guiding an interview or performing a\npersonal observation. Electronic diaries are completed by the worker and would not be used for\nobservations or interviews."
     },
     {
         "chapter": "4",
@@ -504,7 +504,7 @@
             "D": "Developing and testing questionnaires is time-consuming."
         },
         "answer": "D",
-        "explanation": "D) The primary drawback of questionnaires is the time required to develop\nquestionnaires and test them to ensure that workers understand the questions. Questionnaires can\nbe structured or open-ended, and many are a combination of the two.\nDifficulty: Hard\nChapter: 4\nObjective: 3\nAACSB: Analytical Thinking\nLearning Outcome: 4.3 Explain how to use at least three methods of collecting job analysis\ninformation, including interviews, questionnaires, and observation."
+        "explanation": "D) The primary drawback of questionnaires is the time required to develop\nquestionnaires and test them to ensure that workers understand the questions. Questionnaires can\nbe structured or open-ended, and many are a combination of the two."
     },
     {
         "chapter": "4",
@@ -517,7 +517,7 @@
             "D": "nurse"
         },
         "answer": "C",
-        "explanation": "C) Direct observation is particularly useful when jobs consist mainly of observable\nphysical activities, such as with nurses, accounting clerks, assembly-line workers, and\nsalespersons. Observation is less appropriate when a job involves mostly mental activity such as\nwith lawyers and design engineers.\nDifficulty: Moderate\nChapter: 4\nObjective: 3\nAACSB: Analytical Thinking\nLearning Outcome: 4.3 Explain how to use at least three methods of collecting job analysis\ninformation, including interviews, questionnaires, and observation.\n22"
+        "explanation": "C) Direct observation is particularly useful when jobs consist mainly of observable\nphysical activities, such as with nurses, accounting clerks, assembly-line workers, and\nsalespersons. Observation is less appropriate when a job involves mostly mental activity such as\nwith lawyers and design engineers."
     },
     {
         "chapter": "4",
@@ -530,7 +530,7 @@
             "D": "diversion"
         },
         "answer": "C",
-        "explanation": "C) Reactivity occurs when a worker changes what he or she normally does because\nobservation is taking place for the purpose of job analysis. Knowing that they are being watched\nmay cause some workers to alter their normal work behaviors either on purpose or accidentally.\nDifficulty: Easy\nChapter: 4\nObjective: 3\nAACSB: Analytical Thinking\nLearning Outcome: 4.3 Explain how to use at least three methods of collecting job analysis\ninformation, including interviews, questionnaires, and observation."
+        "explanation": "C) Reactivity occurs when a worker changes what he or she normally does because\nobservation is taking place for the purpose of job analysis. Knowing that they are being watched\nmay cause some workers to alter their normal work behaviors either on purpose or accidentally."
     },
     {
         "chapter": "4",
@@ -543,7 +543,7 @@
             "D": "duty"
         },
         "answer": "A",
-        "explanation": "A) A work cycle is the time it takes to complete a job, which may be one minute\nfor an assembly-line worker or weeks for an engineer. Managers collecting data for a job\nanalysis may observe a worker on the job for a complete work cycle and take notes of the\nworker's activities.\nDifficulty: Easy\nChapter: 4\nObjective: 3\nAACSB: Analytical Thinking\nLearning Outcome: 4.3 Explain how to use at least three methods of collecting job analysis\ninformation, including interviews, questionnaires, and observation.\n23"
+        "explanation": "A) A work cycle is the time it takes to complete a job, which may be one minute\nfor an assembly-line worker or weeks for an engineer. Managers collecting data for a job\nanalysis may observe a worker on the job for a complete work cycle and take notes of the\nworker's activities."
     },
     {
         "chapter": "4",
@@ -556,7 +556,7 @@
             "D": "survey"
         },
         "answer": "A",
-        "explanation": "A) Managers frequently combine direct observation with personal interviews to\ngather job analysis information. Often, managers observe the worker for a complete work cycle\nto gather as much information as possible, and then they follow up with an interview to gain\nclarification. Another option is to observe and interview at the same time by asking the worker\nquestions as he or she works.\nDifficulty: Moderate\nChapter: 4\nObjective: 3\nAACSB: Analytical Thinking\nLearning Outcome: 4.3 Explain how to use at least three methods of collecting job analysis\ninformation, including interviews, questionnaires, and observation."
+        "explanation": "A) Managers frequently combine direct observation with personal interviews to\ngather job analysis information. Often, managers observe the worker for a complete work cycle\nto gather as much information as possible, and then they follow up with an interview to gain\nclarification. Another option is to observe and interview at the same time by asking the worker\nquestions as he or she works."
     },
     {
         "chapter": "4",
@@ -569,7 +569,7 @@
             "D": "log"
         },
         "answer": "D",
-        "explanation": "D) A diary or a log requires workers to make daily listings of the activities in\nwhich they engage as well as the amount of time each activity takes. Diaries and logs can be\nuseful in the job analysis process because they often produce a complete picture of the job,\nespecially when used in conjunction with an interview.\nDifficulty: Easy\nChapter: 4\nObjective: 3\nAACSB: Analytical Thinking\nLearning Outcome: 4.3 Explain how to use at least three methods of collecting job analysis\ninformation, including interviews, questionnaires, and observation.\n24"
+        "explanation": "D) A diary or a log requires workers to make daily listings of the activities in\nwhich they engage as well as the amount of time each activity takes. Diaries and logs can be\nuseful in the job analysis process because they often produce a complete picture of the job,\nespecially when used in conjunction with an interview."
     },
     {
         "chapter": "4",
@@ -582,7 +582,7 @@
             "D": "questionnaires"
         },
         "answer": "A",
-        "explanation": "A) Joaquin has been asked to keep a diary or a log of his work activities. With\ndiaries and logs, an employee records every activity and the time spent on each in a log, which\nprovides a complete picture of the job. Diaries and logs are often used in conjunction with\ninterviews, observations, and questionnaires.\nDifficulty: Moderate\nChapter: 4\nObjective: 3\nAACSB: Application of Knowledge\nLearning Outcome: 4.3 Explain how to use at least three methods of collecting job analysis\ninformation, including interviews, questionnaires, and observation."
+        "explanation": "A) Joaquin has been asked to keep a diary or a log of his work activities. With\ndiaries and logs, an employee records every activity and the time spent on each in a log, which\nprovides a complete picture of the job. Diaries and logs are often used in conjunction with\ninterviews, observations, and questionnaires."
     },
     {
         "chapter": "4",
@@ -595,7 +595,7 @@
             "D": "employee frustration towards bureaucratic requirements"
         },
         "answer": "B",
-        "explanation": "B) Some firms provide employees with pocket dictating machines and pagers to\nkeep diaries and logs. At random times during the day, the employee is paged. The employee\nthen dictates what he or she is doing. With this method, employers do not have to rely on\nworkers to remember what they did hours earlier when they complete their logs at the end of the\nday, which was the main problem with paper/pencil diaries.\nDifficulty: Hard\nChapter: 4\nObjective: 3\nAACSB: Analytical Thinking\nLearning Outcome: 4.3 Explain how to use at least three methods of collecting job analysis\ninformation, including interviews, questionnaires, and observation.\n25"
+        "explanation": "B) Some firms provide employees with pocket dictating machines and pagers to\nkeep diaries and logs. At random times during the day, the employee is paged. The employee\nthen dictates what he or she is doing. With this method, employers do not have to rely on\nworkers to remember what they did hours earlier when they complete their logs at the end of the\nday, which was the main problem with paper/pencil diaries."
     },
     {
         "chapter": "4",
@@ -608,7 +608,7 @@
             "D": "Numerous employees at Purrfect Pets perform similar tasks during the work day."
         },
         "answer": "D",
-        "explanation": "D) When a large number of employees perform similar or identical tasks, then a\ngroup interview is a quick and inexpensive way to gather job analysis information. The work\nenvironment or age of the employees are not important factors in deciding whether a group\ninterview is appropriate.\nDifficulty: Hard\nChapter: 4\nObjective: 3\nAACSB: Application of Knowledge\nLearning Outcome: 4.3 Explain how to use at least three methods of collecting job analysis\ninformation, including interviews, questionnaires, and observation."
+        "explanation": "D) When a large number of employees perform similar or identical tasks, then a\ngroup interview is a quick and inexpensive way to gather job analysis information. The work\nenvironment or age of the employees are not important factors in deciding whether a group\ninterview is appropriate."
     },
     {
         "chapter": "4",
@@ -621,7 +621,7 @@
             "D": "Managers believe that some Purrfect Pets employees are overlooking important daily tasks."
         },
         "answer": "B",
-        "explanation": "B) The primary reason to use a position analysis questionnaire is to gather\nquantitative data that enables managers to compare jobs for pay purposes. Although a PAQ\nprovides quantitative data, businesses are not required by EEO laws to use them. Interviews or\nobservations would be more appropriate for uncovering overlooked tasks or becoming familiar\nwith an employee's duties.\nDifficulty: Hard\nChapter: 4\nObjective: 3\nAACSB: Application of Knowledge\nLearning Outcome: 4.3 Explain how to use at least three methods of collecting job analysis\ninformation, including interviews, questionnaires, and observation.\n26"
+        "explanation": "B) The primary reason to use a position analysis questionnaire is to gather\nquantitative data that enables managers to compare jobs for pay purposes. Although a PAQ\nprovides quantitative data, businesses are not required by EEO laws to use them. Interviews or\nobservations would be more appropriate for uncovering overlooked tasks or becoming familiar\nwith an employee's duties."
     },
     {
         "chapter": "4",
@@ -634,7 +634,7 @@
             "D": "During the morning, business at Purrfect Pets typically slows down."
         },
         "answer": "C",
-        "explanation": "C) Observation is an inappropriate tool for collecting job analysis information if\nemployees only occasionally participate in certain tasks. If the tasks vary on a daily basis, one\nday of observation would fail to gather the necessary information. An interview might be the best\nway to find out what an employee does in this situation.\nDifficulty: Hard\nChapter: 4\nObjective: 3\nAACSB: Application of Knowledge\nLearning Outcome: 4.3 Explain how to use at least three methods of collecting job analysis\ninformation, including interviews, questionnaires, and observation."
+        "explanation": "C) Observation is an inappropriate tool for collecting job analysis information if\nemployees only occasionally participate in certain tasks. If the tasks vary on a daily basis, one\nday of observation would fail to gather the necessary information. An interview might be the best\nway to find out what an employee does in this situation."
     },
     {
         "chapter": "4",
@@ -647,7 +647,7 @@
             "D": "uncovering important yet infrequent job tasks"
         },
         "answer": "C",
-        "explanation": "C) The primary benefit of using a PAQ is classifying jobs based on scores in the\nfive different categories. With this data, a manager can quantitatively compare jobs relative to\none another and then assign pay for each job.\nDifficulty: Hard\nChapter: 4\nObjective: 3\nAACSB: Analytical Thinking\nLearning Outcome: 4.3 Explain how to use at least three methods of collecting job analysis\ninformation, including interviews, questionnaires, and observation.\n27"
+        "explanation": "C) The primary benefit of using a PAQ is classifying jobs based on scores in the\nfive different categories. With this data, a manager can quantitatively compare jobs relative to\none another and then assign pay for each job."
     },
     {
         "chapter": "4",
@@ -660,7 +660,7 @@
             "D": "Internet-based survey"
         },
         "answer": "C",
-        "explanation": "C) A position analysis questionnaire is used to collect quantifiable data concerning\nthe duties and responsibilities of various jobs. A PAQ contains 194 items that are based on five\nPAQ basic activities: having decision-making/communication/social responsibilities, performing\nskilled activities, being physically active, operating vehicles/equipment, and processing\ninformation.\nDifficulty: Easy\nChapter: 4\nObjective: 3\nAACSB: Analytical Thinking\nLearning Outcome: 4.3 Explain how to use at least three methods of collecting job analysis\ninformation, including interviews, questionnaires, and observation."
+        "explanation": "C) A position analysis questionnaire is used to collect quantifiable data concerning\nthe duties and responsibilities of various jobs. A PAQ contains 194 items that are based on five\nPAQ basic activities: having decision-making/communication/social responsibilities, performing\nskilled activities, being physically active, operating vehicles/equipment, and processing\ninformation."
     },
     {
         "chapter": "4",
@@ -673,7 +673,7 @@
             "D": "DHS"
         },
         "answer": "B",
-        "explanation": "B) The Department of Labor performed the earliest work in job analysis which\nresulted in the Dictionary of Occupational Titles. The book contained detailed information on\nnearly every job in America based on ratings of data, people, and things. The DOL work\neventually led to the development of position analysis questionnaires (PAQ).\nDifficulty: Easy\nChapter: 4\nObjective: 3\nAACSB: Analytical Thinking\nLearning Outcome: 4.3 Explain how to use at least three methods of collecting job analysis\ninformation, including interviews, questionnaires, and observation.\n28"
+        "explanation": "B) The Department of Labor performed the earliest work in job analysis which\nresulted in the Dictionary of Occupational Titles. The book contained detailed information on\nnearly every job in America based on ratings of data, people, and things. The DOL work\neventually led to the development of position analysis questionnaires (PAQ)."
     },
     {
         "chapter": "4",
@@ -686,7 +686,7 @@
             "D": "people, skills, reasoning"
         },
         "answer": "C",
-        "explanation": "C) Data, people, and things are the three worker function categories used in the\nDepartment of Labor procedure that was compiled into the Dictionary of Occupational Titles.\nThe DOL method describes what a worker must do with respect to data, people, and things.\nDifficulty: Easy\nChapter: 4\nObjective: 3\nAACSB: Analytical Thinking\nLearning Outcome: 4.3 Explain how to use at least three methods of collecting job analysis\ninformation, including interviews, questionnaires, and observation."
+        "explanation": "C) Data, people, and things are the three worker function categories used in the\nDepartment of Labor procedure that was compiled into the Dictionary of Occupational Titles.\nThe DOL method describes what a worker must do with respect to data, people, and things."
     },
     {
         "chapter": "4",
@@ -699,7 +699,7 @@
             "D": "job requirements"
         },
         "answer": "A",
-        "explanation": "A) With the DOL procedure, standard basic activities known as worker functions\nare used to describe what a worker must do in a specific job with respect to three main\ncategories—data, people, and things. Each worker function is given an importance rating for\ncoding purposes.\nDifficulty: Easy\nChapter: 4\nObjective: 3\nAACSB: Analytical Thinking\nLearning Outcome: 4.3 Explain how to use at least three methods of collecting job analysis\ninformation, including interviews, questionnaires, and observation.\n29"
+        "explanation": "A) With the DOL procedure, standard basic activities known as worker functions\nare used to describe what a worker must do in a specific job with respect to three main\ncategories—data, people, and things. Each worker function is given an importance rating for\ncoding purposes."
     },
     {
         "chapter": "4",
@@ -712,7 +712,7 @@
             "D": "The ability to falsify information on Internet surveys has led to an increase in interviews and\nobservations by HR managers to collect accurate job analysis information."
         },
         "answer": "B",
-        "explanation": "B) The greatest impact of modern technology on job analysis methods has been the\nability of HR managers to use the Internet and intranet to distribute and collect job analysis data\nto geographically dispersed employees. Face-to-face interviews and observations are difficult\nand time consuming, especially for a global firm, so questionnaires distributed online are more\nfrequently used.\nDifficulty: Hard\nChapter: 4\nObjective: 3\nAACSB: Analytical Thinking\nLearning Outcome: 4.3 Explain how to use at least three methods of collecting job analysis\ninformation, including interviews, questionnaires, and observation."
+        "explanation": "B) The greatest impact of modern technology on job analysis methods has been the\nability of HR managers to use the Internet and intranet to distribute and collect job analysis data\nto geographically dispersed employees. Face-to-face interviews and observations are difficult\nand time consuming, especially for a global firm, so questionnaires distributed online are more\nfrequently used."
     },
     {
         "chapter": "4",
@@ -725,12 +725,12 @@
             "D": "ask open-ended questions to ensure honest responses"
         },
         "answer": "A",
-        "explanation": "A) Removing the ambiguity from both questions and the job analysis process will\ngreatly improve the validity of online results. The purpose of collecting data online is to save\ntime and money, so minimal intervention and guidance should be necessary.\nDifficulty: Hard\nChapter: 4\nObjective: 3\nAACSB: Analytical Thinking\nLearning Outcome: 4.3 Explain how to use at least three methods of collecting job analysis\ninformation, including interviews, questionnaires, and observation.\n30"
+        "explanation": "A) Removing the ambiguity from both questions and the job analysis process will\ngreatly improve the validity of online results. The purpose of collecting data online is to save\ntime and money, so minimal intervention and guidance should be necessary."
     },
     {
         "chapter": "4",
-        "question_number": "70)",
-        "description": "Informal interviews provide quantitative job analysis information, which is why they are\nfrequently used by managers who need to determine the relative worth of a job for pay purposes.\nAnswer: FALSE\nExplanation: Informal interviews with open ended questions provide qualitative rather than\nquantitative information for a job analysis. Position analysis questionnaires are best for\nquantifying a job's worth for pay purposes. The two methods are often used together to gather a\nwell-rounded amount of information about a job.\nDifficulty: Moderate\nChapter: 4\nObjective: 3\nAACSB: Analytical Thinking\nLearning Outcome: 4.3 Explain how to use at least three methods of collecting job analysis\ninformation, including interviews, questionnaires, and observation.\n71) The immediate supervisor of a group of workers being interviewed for job analysis purposes\nis not allowed to attend the session due to concerns about workers failing to provide honest\nresponses to questions.\nAnswer: FALSE\nExplanation: As a rule, the immediate supervisor of a group of workers should attend an\ninterview session for job analysis purposes. If the supervisor is unable to attend, then he or she\nmust be interviewed separately so that the interviewer can gather that person's perspective on the\njob's duties and responsibilities.\nDifficulty: Moderate\nChapter: 4\nObjective: 3\nAACSB: Analytical Thinking\nLearning Outcome: 4.3 Explain how to use at least three methods of collecting job analysis\ninformation, including interviews, questionnaires, and observation.\n72) Studies suggest that employees are more likely to describe their job duties in the form of\nsimple task statements instead of as ability statements during job analysis interviews.\nAnswer: FALSE\nExplanation: During job analysis interviews, employees are more likely to describe their job\nduties in the form of ability-based statements, such as \"ability to record phone messages\" rather\nthan as simple task statements like \"record phone messages.\" The most likely reason is that\nemployees exaggerate their duties and responsibilities during interviews, especially if they\nbelieve the interview is for the purpose of a compensation change.\nDifficulty: Moderate\nChapter: 4\nObjective: 3\nAACSB: Analytical Thinking\nLearning Outcome: 4.3 Explain how to use at least three methods of collecting job analysis\ninformation, including interviews, questionnaires, and observation.\n31\n\n\n73) Questionnaires developed for the purpose of job analysis are always structured in the form of\nchecklists so that the information can easily be entered into a database.\nAnswer: FALSE\nExplanation: Questionnaires range from being highly structured to open-ended, and most fall\nbetween the two extremes. Most questionnaires include several open-ended questions as well as\nstructured questions.\nDifficulty: Moderate\nChapter: 4\nObjective: 3\nAACSB: Analytical Thinking\nLearning Outcome: 4.3 Explain how to use at least three methods of collecting job analysis\ninformation, including interviews, questionnaires, and observation.\n74) Observation as a job analysis data collection method is most appropriate for jobs that involve\nphysical activities.\nAnswer: TRUE\nExplanation: Observation is an appropriate method for collecting job analysis information when\na job involves physical rather than mental activities. Jobs like assembly-line worker, mechanic,\nand accounting clerk can be directly observed by an HR manager. Lawyers and design engineers\nspend more time with mental activities, so it would be less appropriate to use observation in\nthese types of positions.\nDifficulty: Easy\nChapter: 4\nObjective: 3\nAACSB: Analytical Thinking\nLearning Outcome: 4.3 Explain how to use at least three methods of collecting job analysis\ninformation, including interviews, questionnaires, and observation.\n75) Some employers collecting job analysis information provide employees with pocket dictating\nmachines and pagers to record activities at random times of the work day.\nAnswer: TRUE\nExplanation: In the past, diary/logs required employees to write down their activities at the end\nof the day, which was problematic due to forgetfulness. However, pagers can now be used to\nremind employees to speak into their pocket dictating machines about the work activities in\nwhich they are currently involved.\nDifficulty: Easy\nChapter: 4\nObjective: 3\nAACSB: Analytical Thinking\nLearning Outcome: 4.3 Explain how to use at least three methods of collecting job analysis\ninformation, including interviews, questionnaires, and observation.\n32\n\n\n76) Quantitative approaches for collecting job analysis data are more appropriate than qualitative\napproaches when a manager seeks to compare jobs for pay purposes.\nAnswer: TRUE\nExplanation: Quantitative ratings as generated by the position analysis questionnaire and the\nDepartment of Labor approach are the best tools to use when assessing the monetary value of a\njob.\nDifficulty: Moderate\nChapter: 4\nObjective: 3\nAACSB: Analytical Thinking\nLearning Outcome: 4.3 Explain how to use at least three methods of collecting job analysis\ninformation, including interviews, questionnaires, and observation.\n77) What time-saving options are available to a busy manager who needs to conduct a job\nanalysis and write job descriptions? Explain your answer in a brief essay.\nAnswer: Job analysis can be a time-consuming process. Managers can save time by holding\ngroup interviews with groups of employees who have the same job. Managers use group\ninterviews when a large number of employees are performing similar or identical work, since\nthis can be a quick and inexpensive way to gather information. Busy managers often turn to the\nInternet for help writing job descriptions because the process can save a great amount of time.\nSites like O*NET and www.jobdescription.com provide managers with important characteristics\nof various occupations, as well as the experience, education, and knowledge needed to do each\njob well.\nDifficulty: Hard\nChapter: 4\nObjective: 3\nAACSB: Analytical Thinking\nLearning Outcome: 4.3 Explain how to use at least three methods of collecting job analysis\ninformation, including interviews, questionnaires, and observation.\n78) What are the advantages and disadvantages of using interviews to collect job analysis data?\nAnswer: Interviews are a relatively simple and quick way to collect data. Skilled interviewers\ncan gather information that might otherwise go undiscovered. Some activities might occur only\noccasionally or be more informal in nature. Interviews can discover these types of activities. The\ninterview also offers an opportunity to explain the need for a job analysis. The biggest drawback\nis the chance for information to be distorted either to outright falsification or honest\nmisunderstanding.\nDifficulty: Hard\nChapter: 4\nObjective: 3\nAACSB: Analytical Thinking\nLearning Outcome: 4.3 Explain how to use at least three methods of collecting job analysis\ninformation, including interviews, questionnaires, and observation.\n33\n\n\n79) Most job descriptions contain sections that cover all of the following EXCEPT ________.",
+        "question_number": "79)",
+        "description": "Most job descriptions contain sections that cover all of the following EXCEPT ________.",
         "options": {
             "A": "performance standards",
             "B": "working conditions",
@@ -738,7 +738,7 @@
             "D": "required overtime"
         },
         "answer": "D",
-        "explanation": "D) Most job descriptions contain sections that cover job identification, job\nsummary, responsibilities and duties, authority of incumbent, performance standards, working\nconditions, and job specifications. Although information regarding salary and/or pay scale may\nbe included, it is less likely that the amount of overtime required in the position will be included.\nDifficulty: Moderate\nChapter: 4\nObjective: 4\nAACSB: Analytical Thinking\nLearning Outcome: 4.4 Explain how you would write a job description."
+        "explanation": "D) Most job descriptions contain sections that cover job identification, job\nsummary, responsibilities and duties, authority of incumbent, performance standards, working\nconditions, and job specifications. Although information regarding salary and/or pay scale may\nbe included, it is less likely that the amount of overtime required in the position will be included."
     },
     {
         "chapter": "4",
@@ -751,7 +751,7 @@
             "D": "standards of performance"
         },
         "answer": "A",
-        "explanation": "A) The job identification section of a job description includes the job title, FLSA\nstatus, and date the job description was approved.\nDifficulty: Easy\nChapter: 4\nObjective: 4\nAACSB: Analytical Thinking\nLearning Outcome: 4.4 Explain how you would write a job description."
+        "explanation": "A) The job identification section of a job description includes the job title, FLSA\nstatus, and date the job description was approved."
     },
     {
         "chapter": "4",
@@ -764,7 +764,7 @@
             "D": "whether a job requires a college degree"
         },
         "answer": "B",
-        "explanation": "B) The FLSA status section identifies a job as exempt or nonexempt. According to\nthe Fair Labor Standards Act, certain positions, mostly administrative and professional, are\nexempt from the act's overtime and minimum wage provisions.\nDifficulty: Moderate\nChapter: 4\nObjective: 4\nAACSB: Analytical Thinking\nLearning Outcome: 4.4 Explain how you would write a job description.\n34"
+        "explanation": "B) The FLSA status section identifies a job as exempt or nonexempt. According to\nthe Fair Labor Standards Act, certain positions, mostly administrative and professional, are\nexempt from the act's overtime and minimum wage provisions."
     },
     {
         "chapter": "4",
@@ -777,7 +777,7 @@
             "D": "Dictionary of Occupational Titles"
         },
         "answer": "C",
-        "explanation": "C) The Standard Occupational Classification classifies all workers into one of 23\nmajor groups of jobs that are subdivided into minor groups of jobs and detailed occupations. The\nSOC replaced the Dictionary of Occupational Titles, which was used for many years as a source\nfor standard job descriptions.\nDifficulty: Easy\nChapter: 4\nObjective: 4\nAACSB: Analytical Thinking\nLearning Outcome: 4.4 Explain how you would write a job description."
+        "explanation": "C) The Standard Occupational Classification classifies all workers into one of 23\nmajor groups of jobs that are subdivided into minor groups of jobs and detailed occupations. The\nSOC replaced the Dictionary of Occupational Titles, which was used for many years as a source\nfor standard job descriptions."
     },
     {
         "chapter": "4",
@@ -790,7 +790,7 @@
             "D": "SIC"
         },
         "answer": "B",
-        "explanation": "B) The Americans with Disabilities Act (ADA) was enacted by Congress to reduce\nor eliminate discrimination against disabled individuals. According to the ADA, an individual\nmust have the requisite skills, educational background, and experience to perform a job's\nessential functions.\nDifficulty: Easy\nChapter: 4\nObjective: 4\nAACSB: Analytical Thinking\nLearning Outcome: 4.4 Explain how you would write a job description.\n35"
+        "explanation": "B) The Americans with Disabilities Act (ADA) was enacted by Congress to reduce\nor eliminate discrimination against disabled individuals. According to the ADA, an individual\nmust have the requisite skills, educational background, and experience to perform a job's\nessential functions."
     },
     {
         "chapter": "4",
@@ -803,7 +803,7 @@
             "D": "each time that a disabled individual applies for a position"
         },
         "answer": "A",
-        "explanation": "A) Employers are required to make a \"reasonable accommodation\" when a\ndisabled person has the necessary skills, education, and experience to perform the job but is\nprevented from doing so by the job's current structure. Employers are not required to make\nreasonable accommodations if doing so would present an undue hardship on the employer.\nDifficulty: Hard\nChapter: 4\nObjective: 4\nAACSB: Analytical Thinking\nLearning Outcome: 4.4 Explain how you would write a job description."
+        "explanation": "A) Employers are required to make a \"reasonable accommodation\" when a\ndisabled person has the necessary skills, education, and experience to perform the job but is\nprevented from doing so by the job's current structure. Employers are not required to make\nreasonable accommodations if doing so would present an undue hardship on the employer."
     },
     {
         "chapter": "4",
@@ -816,7 +816,7 @@
             "D": "job specifications"
         },
         "answer": "B",
-        "explanation": "B) According to the Americans with Disabilities Act (ADA), essential job\nfunctions are the job duties that employees must be able to perform, with or without reasonable\naccommodation. Most ADA legal actions center on the concept of whether a job function is\nessential or not.\nDifficulty: Easy\nChapter: 4\nObjective: 4\nAACSB: Analytical Thinking\nLearning Outcome: 4.4 Explain how you would write a job description.\n36"
+        "explanation": "B) According to the Americans with Disabilities Act (ADA), essential job\nfunctions are the job duties that employees must be able to perform, with or without reasonable\naccommodation. Most ADA legal actions center on the concept of whether a job function is\nessential or not."
     },
     {
         "chapter": "4",
@@ -829,7 +829,7 @@
             "D": "onetcenter.org"
         },
         "answer": "D",
-        "explanation": "D) O*NET is a Web tool that was developed by the U.S. Department of Labor to\nallow managers, workers, and job seekers to see the essential characteristics of various\noccupations. Managers use the site to develop job descriptions.\nDifficulty: Moderate\nChapter: 4\nObjective: 4\nAACSB: Analytical Thinking\nLearning Outcome: 4.4 Explain how you would write a job description."
+        "explanation": "D) O*NET is a Web tool that was developed by the U.S. Department of Labor to\nallow managers, workers, and job seekers to see the essential characteristics of various\noccupations. Managers use the site to develop job descriptions."
     },
     {
         "chapter": "4",
@@ -842,20 +842,20 @@
             "D": "observe employees performing their duties"
         },
         "answer": "C",
-        "explanation": "C) The first step in using O*NET is to review the firm's business plan, which is\nfollowed by developing an organization chart that addresses both the current and future structure\nof the firm. After having employees complete brief questionnaires, obtaining a list of duties from\nO*NET, and listing the human requirements for the job, a manager is ready to finalize the job\ndescription.\nDifficulty: Hard\nChapter: 4\nObjective: 4\nAACSB: Application of Knowledge\nLearning Outcome: 4.4 Explain how you would write a job description."
+        "explanation": "C) The first step in using O*NET is to review the firm's business plan, which is\nfollowed by developing an organization chart that addresses both the current and future structure\nof the firm. After having employees complete brief questionnaires, obtaining a list of duties from\nO*NET, and listing the human requirements for the job, a manager is ready to finalize the job\ndescription."
     },
     {
         "chapter": "4",
-        "question_number": "88)",
-        "description": "The FLSA status section of a job description permits quick identification of a job as exempt\nor nonexempt from overtime and minimum wage provisions.\nAnswer: TRUE\nExplanation: The FLSA status of a job description is usually included in the job identification\nsection. According to the Fair Labor Standards Act, certain positions, primarily administrative\nand professional, are exempt from the act's overtime and minimum wage provisions.\nDifficulty: Moderate\nChapter: 4\nObjective: 4\nAACSB: Analytical Thinking\nLearning Outcome: 4.4 Explain how you would write a job description.\n37\n\n\n89) The Americans with Disabilities Act (AD",
+        "question_number": "93)",
+        "description": "Which of the following is the primary source of information an employer uses to write a job\nspecification?",
         "options": {
-            "A": "requires that organizations have job descriptions\nthat list the essential functions of all jobs.\nAnswer: FALSE\nExplanation: The ADA does not require job descriptions, but they are advisable in case a\ndiscrimination complaint ends up in court. Most ADA legal actions revolve around the questions,\n\"What are the essential functions of the job?\"\nDifficulty: Moderate\nChapter: 4\nObjective: 4\nAACSB: Analytical Thinking\nLearning Outcome: 4.4 Explain how you would write a job description.\n90) O*NET has become an increasingly popular Web tool for creating and distributing position\nanalysis questionnaires to employees who are located throughout the world.\nAnswer: FALSE\nExplanation: O*NET is a popular Web tool for writing job descriptions, not for creating and\ndistributing PAQs to global employees. O*NET was developed by the U.S. Department of\nLabor, and it allows users to see the most important characteristics of various occupations.\nO*NET provides a streamlined approach for managers who need to write job descriptions.\nDifficulty: Moderate\nChapter: 4\nObjective: 4\nAACSB: Analytical Thinking\nLearning Outcome: 4.4 Explain how you would write a job description.\n91) How has modern technology, such as the Internet, changed job analysis methods? How has\nthe Internet improved the ability of managers to write job descriptions?\nAnswer: The human resource department can distribute standardized job analysis questionnaires\nto geographically disbursed employees via their company intranets, with instructions to complete\nthe forms and return them by a particular date.\nMany employers turn to the Internet for assistance with writing job descriptions. O*Net, the U.S.\nDepartment of Labor's occupational information network, is an increasingly popular Web tool. It\nallows users (not just managers, but workers and job seekers) to see the most important\ncharacteristics of various occupations, as well as the experience, education, and knowledge\nrequired to do each job well. Jobdescription.com is another popular site used for developing job\ndescriptions.\nDifficulty: Hard\nChapter: 4\nObjective: 4\nAACSB: Analytical Thinking\nLearning Outcome: 4.4 Explain how you would write a job description.\n38\n\n\n92) How does the ADA affect hiring practices? How does an HR manager determine whether or\nnot a job description complies with the ADA?\nAnswer: Congress enacted the Americans with Disabilities Act (ADA) to reduce or eliminate\nserious problems of discrimination against disabled individuals. Under the ADA, the individual\nmust have the requisite skills, educational background, and experience to perform the job's\nessential functions. A job function is essential when it is the reason the position exists or when\nthe function is so specialized that the firm hired the person doing the job for his or her expertise\nor ability to perform that particular function. If the disabled individual can't perform the job as\ncurrently structured, the employer is required to make a \"reasonable accommodation,\" unless\ndoing so would present an \"undue hardship.\" The ADA does not require job descriptions, but it's\nprobably advisable to have them. Virtually all ADA legal actions will revolve around the\nquestion, \"What are the essential functions of the job?\" Without a job description that lists such\nfunctions, it will be hard to convince a court that the functions are essential to the job.\nDifficulty: Moderate\nChapter: 4\nObjective: 4\nAACSB: Analytical Thinking\nLearning Outcome: 4.4 Explain how you would write a job description.\n93) Which of the following is the primary source of information an employer uses to write a job\nspecification?\nA) job summary",
+            "A": "job summary",
             "B": "job description",
             "C": "performance standards",
             "D": "personnel replacement charts"
         },
         "answer": "B",
-        "explanation": "B) A job analysis is used to produce a job description, which is then used to write a\njob specification.\nDifficulty: Easy\nChapter: 4\nObjective: 4\nAACSB: Analytical Thinking\nLearning Outcome: 4.5 Explain how to write a job specification.\n39"
+        "explanation": "B) A job analysis is used to produce a job description, which is then used to write a\njob specification."
     },
     {
         "chapter": "4",
@@ -868,7 +868,7 @@
             "D": "personality traits"
         },
         "answer": "D",
-        "explanation": "D) When filling jobs with untrained people that the employer intends to train, the\nemployer will most likely specify qualities like physical traits, personality, interests, or sensory\nskills that imply some potential for performing or for being trained to do the job. Age and gender\nshould not be elements of a job specification list. Certification and past job performance are less\nlikely to predict the success of a person's job performance in an area for which they have never\nreceived training.\nDifficulty: Moderate\nChapter: 4\nObjective: 5\nAACSB: Application of Knowledge\nLearning Outcome: 4.5 Explain how to write a job specification."
+        "explanation": "D) When filling jobs with untrained people that the employer intends to train, the\nemployer will most likely specify qualities like physical traits, personality, interests, or sensory\nskills that imply some potential for performing or for being trained to do the job. Age and gender\nshould not be elements of a job specification list. Certification and past job performance are less\nlikely to predict the success of a person's job performance in an area for which they have never\nreceived training."
     },
     {
         "chapter": "4",
@@ -881,12 +881,12 @@
             "D": "industriousness"
         },
         "answer": "B",
-        "explanation": "B) According to research, industriousness, thoroughness, schedule flexibility, and\nattendance are job-related behaviors that are important to all jobs. Experience is not a behavior,\nand in many entry-level jobs, experience is not necessary.\nDifficulty: Moderate\nChapter: 4\nObjective: 5\nAACSB: Analytical Thinking\nLearning Outcome: 4.5 Explain how to write a job specification.\n40"
+        "explanation": "B) According to research, industriousness, thoroughness, schedule flexibility, and\nattendance are job-related behaviors that are important to all jobs. Experience is not a behavior,\nand in many entry-level jobs, experience is not necessary."
     },
     {
         "chapter": "4",
-        "question_number": "96)",
-        "description": "The statistical analysis method for developing job specifications is more defensible than the\njudgmental approach because equal rights legislation forbids using traits that a firm cannot prove\ndistinguish between high and low job performers.\nAnswer: TRUE\nExplanation: Using a statistical analysis method for developing job specifications is more\ndefensible than using educated guesses. Equal rights legislation forbids using traits that a firm\ncannot prove distinguish between high and low job performers. For example, hiring standards\nthat discriminate based on sex, race, religion, national origin, or age may have to be shown to\npredict job performance.\nDifficulty: Moderate\nChapter: 4\nObjective: 5\nAACSB: Analytical Thinking\nLearning Outcome: 4.5 Explain how to write a job specification.\n97) A conventional job description provides managers with a more comprehensive picture of\nworker activities than a job requirement matrix, which fails to address how and why workers\nperform specific job activities.\nAnswer: FALSE\nExplanation: The job requirement matrix provides a more comprehensive picture of what the\nworker does and how and why he or she does it than does a conventional job description. The list\nof required knowledge, skills, abilities, and other characteristics provides useful information for\nmaking staffing, training, and performance appraisal decisions.\nDifficulty: Moderate\nChapter: 4\nObjective: 5\nAACSB: Analytical Thinking\nLearning Outcome: 4.5 Explain how to write a job specification.\n41\n\n\n98) In a brief essay, compare and contrast job descriptions and job specifications.\nAnswer: The primary function of a job analysis is to develop job specifications and job\ndescriptions. A job description is a written statement of what the worker actually does, how he or\nshe does it, and what the job's working conditions are. You use this information to write a job\nspecification; this lists the knowledge, abilities, and skills required to perform the job\nsatisfactorily. There is no standard format for writing a job description. However, most\ndescriptions contain sections that cover:\n1. Job identification\n2. Job summary\n3. Responsibilities and duties\n4. Authority of incumbent\n5. Standards of performance\n6. Working conditions\n7. Job specifications\nThe job specification takes the job description and answers the question, \"What human traits and\nexperience are required to do this job effectively?\" It shows what kind of person to recruit and\nfor what qualities you should test that person. The job specification may be a section of the job\ndescription, or a separate document.\nDifficulty: Moderate\nChapter: 4\nObjective: 4, 5\nAACSB: Analytical Thinking\nLearning Outcome: 4.5 Explain how to write a job specification.\n42\n\n\n99) A human resource manager needs to develop job specifications for a new position at her\nfirm. She can either base the job specifications on statistical analysis or on common sense.\nBriefly describe each method, and recommend which method the HR manager should use.\nAnswer: Most job specifications come from the educated guesses of people like supervisors and\nhuman resource managers. The basic procedure here is to ask, \"What does it take in terms of\neducation, intelligence, training, and the like to do this job well?\" There are several ways to get\nthese \"educated guesses.\" You could simply review the job's duties and deduce from those what\nhuman traits and skills the job requires. You can also choose them from the competencies listed\nin Web-based job descriptions. In any case, use common sense when compiling your list. Don't\nignore the behaviors that may apply to almost any job but that might not normally surface\nthrough a job analysis. Industriousness is an example. Who wants an employee who doesn't work\nhard?\nThe other option is to base job specifications on statistical analysis, which is more defensible but\nalso more difficult. The aim here is to determine statistically the relationship between (1) some\npredictor (human trait, such as height, intelligence, or finger dexterity), and (2) some indicator or\ncriterion of job effectiveness, such as performance as rated by the supervisor. The procedure has\nfive steps: (1) analyze the job and decide how to measure job performance; (2) select personal\ntraits like finger dexterity that you believe should predict successful performance; (3) test\ncandidates for these traits; (4) measure these candidates' subsequent job performance; and (5)\nstatistically analyze the relationship between the human trait (finger dexterity) and job\nperformance. Your objective is to determine whether the former predicts the latter. This method\nis more defensible than the judgmental approach because equal rights legislation forbids using\ntraits that you can't prove distinguish between high and low job performers.\nDifficulty: Hard\nChapter: 4\nObjective: 5\nAACSB: Application of Knowledge\nLearning Outcome: 4.5 Explain how to write a job specification.\n100) Which of the following describes a job in terms of measurable and observable behaviors\nthat an employee must exhibit to do the job well?",
+        "question_number": "100)",
+        "description": "Which of the following describes a job in terms of measurable and observable behaviors\nthat an employee must exhibit to do the job well?",
         "options": {
             "A": "competency-based job analysis",
             "B": "Department of Labor procedure",
@@ -894,7 +894,7 @@
             "D": "high-performance work matrix"
         },
         "answer": "A",
-        "explanation": "A) A competency-based job analysis refers to describing a job in terms of\nmeasurable, observable, behavioral competencies that an employee doing the job must exhibit to\ndo the job well. This method contrasts with traditional job analysis that describes jobs in terms of\njob duties and responsibilities. Competency-based analysis is worker-focused.\nDifficulty: Easy\nChapter: 4\nObjective: 7\nAACSB: Analytical Thinking\nLearning Outcome: 4.7 Explain competency-based job analysis, including what it means and\nhow it's done in practice.\n43"
+        "explanation": "A) A competency-based job analysis refers to describing a job in terms of\nmeasurable, observable, behavioral competencies that an employee doing the job must exhibit to\ndo the job well. This method contrasts with traditional job analysis that describes jobs in terms of\njob duties and responsibilities. Competency-based analysis is worker-focused."
     },
     {
         "chapter": "4",
@@ -907,7 +907,7 @@
             "D": "What should the employee be able to do in order to competently perform this job?"
         },
         "answer": "D",
-        "explanation": "D) The focus of a competency-based job analysis is the skills of the worker rather\nthan the duties, equipment, or working conditions of the job. Traditional job-analysis is more\njob-focused while competency-based analysis is more worker-focused.\nDifficulty: Hard\nChapter: 4\nObjective: 7\nAACSB: Analytical Thinking\nLearning Outcome: 4.7 Explain competency-based job analysis, including what it means and\nhow it's done in practice."
+        "explanation": "D) The focus of a competency-based job analysis is the skills of the worker rather\nthan the duties, equipment, or working conditions of the job. Traditional job-analysis is more\njob-focused while competency-based analysis is more worker-focused."
     },
     {
         "chapter": "4",
@@ -920,6 +920,6 @@
             "D": "Globalization and telecommuting require workers to be able to self-manage and perform\nduties without close supervision."
         },
         "answer": "C",
-        "explanation": "C) Competency-based job descriptions are more appropriate than traditional job\ndescriptions when high-performance work systems are the goal. In a HPWS, workers are\nencouraged to serve as team members and to rotate freely among jobs, so competencies should\nbe the focus rather than a list of specific job duties which might hinder employee flexibility.\nDifficulty: Hard\nChapter: 4\nObjective: 6\nAACSB: Application of Knowledge\nLearning Outcome: 4.7 Explain competency-based job analysis, including what it means and\nhow it's done in practice.\n44"
+        "explanation": "C) Competency-based job descriptions are more appropriate than traditional job\ndescriptions when high-performance work systems are the goal. In a HPWS, workers are\nencouraged to serve as team members and to rotate freely among jobs, so competencies should\nbe the focus rather than a list of specific job duties which might hinder employee flexibility."
     }
 ]
