@@ -97,3 +97,11 @@ document.addEventListener('DOMContentLoaded', function() {
         setupOptionListeners(questionData);
     }
 });
+function loadBack() {
+    // Store the question data and chapter number in session storage
+    sessionStorage.removeItem('currentQuestion');
+    sessionStorage.removeItem('currentChapter');
+
+    // Redirect to QuestionPage.html
+    window.location.href = 'main.html';
+}
