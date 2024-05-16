@@ -30,7 +30,7 @@ function displayQuestion(questionData) {
         // Redirect to QuestionPage.html
         if(TypeSelect == 'MultiSelect'){
             window.location.href = 'QuestionPage.html';
-        }else if(TypeSelect == 'MultiSelect'){
+        }else{
             window.location.href = 'TrueOrFalsePage.html';
         }
     }
