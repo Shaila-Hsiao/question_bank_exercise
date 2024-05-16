@@ -25,9 +25,14 @@ python app.py
      - 記得要在檔案位置下點選開啟
      ![image](https://github.com/Shaila-Hsiao/question_bank_exercise/assets/105621058/b425d7b5-3952-442d-bb86-9a11a504d31d)
   - 成功開啟的畫面
-    ![image](https://github.com/Shaila-Hsiao/question_bank_exercise/assets/105621058/49d35369-a5ef-423a-aa34-7c30ad84e2de)
-    ![image](https://github.com/Shaila-Hsiao/question_bank_exercise/assets/105621058/f147679b-5297-424e-b591-2a4f308677bb)
-    ![1713976025049](https://github.com/Shaila-Hsiao/question_bank_exercise/assets/105621058/3c736115-5d1c-49e0-be7a-269674065e78)
+    - 請選擇 【章節】、【題型】:
+      - 選擇題
+        ![image](https://github.com/Shaila-Hsiao/question_bank_exercise/assets/105621058/49d35369-a5ef-423a-aa34-7c30ad84e2de)
+      - 是非題
+        ![image](https://github.com/Shaila-Hsiao/question_bank_exercise/assets/105621058/aef336a5-6457-41b8-9eb8-a930a0b51d65)
+
+        ![image](https://github.com/Shaila-Hsiao/question_bank_exercise/assets/105621058/f147679b-5297-424e-b591-2a4f308677bb)
+        ![1713976025049](https://github.com/Shaila-Hsiao/question_bank_exercise/assets/105621058/3c736115-5d1c-49e0-be7a-269674065e78)
 
 ## fix
 - [X] Json 格式篩選題目有問題 
