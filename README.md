@@ -26,12 +26,17 @@ python app.py
      ![image](https://github.com/Shaila-Hsiao/question_bank_exercise/assets/105621058/b425d7b5-3952-442d-bb86-9a11a504d31d)
   - 成功開啟的畫面
     - 請選擇 【章節】、【題型】:
+
+      ![image](https://github.com/Shaila-Hsiao/question_bank_exercise/assets/105621058/c736f212-9694-43eb-ab56-ade0f57655ed)
+
       - 選擇題
-        ![image](https://github.com/Shaila-Hsiao/question_bank_exercise/assets/105621058/49d35369-a5ef-423a-aa34-7c30ad84e2de)
-      - 是非題
-        ![image](https://github.com/Shaila-Hsiao/question_bank_exercise/assets/105621058/aef336a5-6457-41b8-9eb8-a930a0b51d65)
 
         ![image](https://github.com/Shaila-Hsiao/question_bank_exercise/assets/105621058/f147679b-5297-424e-b591-2a4f308677bb)
+
+      - 是非題
+
+        ![image](https://github.com/Shaila-Hsiao/question_bank_exercise/assets/105621058/aef336a5-6457-41b8-9eb8-a930a0b51d65)
+
         ![1713976025049](https://github.com/Shaila-Hsiao/question_bank_exercise/assets/105621058/3c736115-5d1c-49e0-be7a-269674065e78)
 
 ## fix
