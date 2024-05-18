@@ -1,15 +1,15 @@
 eel.expose(renderQuestion);
 function renderQuestion(question) {
     var chapter = JSON.parse(sessionStorage.getItem('currentChapter'));
-    const questionChapter =  document.getElementById('questionsChapter');
-    questionChapter.innerHTML="<h2>你正在練習第"+chapter+"章<h2>"
+    const questionChapter = document.getElementById('questionsChapter');
+    questionChapter.innerHTML = "<h2>你正在練習第" + chapter + "章<h2>";
     const container = document.getElementById('questionsContainer');
     const question_str = `<h2>${question.question_number}</h2><p>${question.description}</p>`;
     const option_str = option_to_str(question);
     const explanation_str = explanation_to_str(question);
     container.innerHTML = question_str + option_str + explanation_str;
 }
-// questionPage.js
+
 document.addEventListener('DOMContentLoaded', function() {
     // Retrieve the question data from session storage
     var questionData = JSON.parse(sessionStorage.getItem('currentQuestion'));
@@ -62,14 +62,13 @@ function option_to_str(question){
     return str;
 }
 
-function loadBack(){
+function loadBack() {
     // Store the question data and chapter number in session storage
     sessionStorage.removeItem('currentQuestion');
     sessionStorage.removeItem('currentChapter');
     sessionStorage.removeItem('currentType');
     window.location.href = 'main.html';
 }
-
 
 function setupOptionListeners(question) {
     const radios = $('.form-check-input'); // Use jQuery to select radios
@@ -80,11 +79,11 @@ function setupOptionListeners(question) {
         const answerDiv = accordionDiv.find('.accordion-button'); // Select only the button within this specific accordion
         const wrongMessage = $(`#${jqSelectorEscape('wrong_' + question.question_number)}`); // Ensure IDs are escaped
         const successMessage = $(`#${jqSelectorEscape('success_' + question.question_number)}`); // Ensure IDs are escaped
-        console.log("答案",radio.val(),"選擇:",question.answer);
+        console.log("答案", radio.val(), "選擇:", question.answer);
         if (radio.val() !== question.answer) {
             wrongMessage.show(); // Show the 'wrong' message
             successMessage.hide(); // Hide the 'success' message
-            answerDiv.removeClass('bg-success-subtle').addClass('bg-danger-subtle'); 
+            answerDiv.removeClass('bg-success-subtle').addClass('bg-danger-subtle');
             $('#answer').css('color', 'red'); // Set text color to red for the answer
         } else {
             successMessage.show(); // Show the 'success' message
@@ -96,17 +95,33 @@ function setupOptionListeners(question) {
     });
 }
 
-function loadNewQuestion() {
-    // Retrieve the question data from session storage
-    // var questionData = JSON.parse(sessionStorage.getItem('currentQuestion'));
-    // checkAddList(questionData).then( r => {
-        // Assume the chapter number is stored in session storage
+async function checkAddList(questionData) {
+    if ($("#flexCheckChecked_TF").prop("checked")) {
+        const chapter = JSON.parse(sessionStorage.getItem('currentChapter'));
+        const question = questionData.description;
+        const question_number = questionData.question_number;
+        const answer = questionData.answer;
+        const explanation = questionData.explanation;
+        await eel.add_topic(chapter, question, question_number, answer, explanation)();
+        console.log("Checked and added to review list");
+    } else {
+        console.log("Checkbox not checked");
+    }
+}
+
+async function loadNewQuestion() {
+    var questionData = JSON.parse(sessionStorage.getItem('currentQuestion'));
+    console.log("currentQuestion");
+    // Await the check and list addition based on the checkbox state
+    await checkAddList(questionData);
+
+    // Get new question data based on the chapter and type
     var chapter = JSON.parse(sessionStorage.getItem('currentChapter'));
     var type = JSON.parse(sessionStorage.getItem('currentType'));
-    eel.get_random_question_from_chapter(chapter,type)(function(question) {
-        console.log("get_random_question_from_chapter");
+    eel.get_random_question_from_chapter(chapter, type)(function(question) {
+        console.log("Fetching new question from chapter");
         renderQuestion(question);
         setupOptionListeners(question);
+        sessionStorage.setItem('currentQuestion', JSON.stringify(question))
     });
-    // })
 }

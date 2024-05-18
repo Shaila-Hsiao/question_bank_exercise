@@ -48,20 +48,27 @@ function option_to_str(question){
     }
     return str;
 }
-// async function checkAddList(questionData) {
-//     if ($("#flexCheckChecked").prop("checked")) {
-//         // Checkbox is checked, add to review list
-//         addToReviewList(questionData);
-//         console.log("Checked and added to review list");
-//     } else {
-//         console.log("Checkbox not checked");
-//     }
-// }
+async function checkAddList(questionData) {
+    if ($("#flexCheckChecked").prop("checked")) {
+        const chapter = JSON.parse(sessionStorage.getItem('currentChapter'));
+        const question = questionData.description;
+        const question_number = questionData.question_number;
+        const answer = questionData.answer;
+        const explanation = questionData.explanation;
+        const options = JSON.stringify(questionData.options);  // Convert options to JSON string
+        await eel.add_topic(chapter, question, question_number, answer, explanation, options)();
+        console.log("Checked and added to review list");
+    } else {
+        console.log("Checkbox not checked");
+    }
+}
+
 
 async function loadNewQuestion() {
     var questionData = JSON.parse(sessionStorage.getItem('currentQuestion'));
+    console.log("currentQuestion");
     // Await the check and list addition based on the checkbox state
-    // await checkAddList(questionData);
+    await checkAddList(questionData);
 
     // Get new question data based on the chapter and type
     var chapter = JSON.parse(sessionStorage.getItem('currentChapter'));
@@ -70,6 +77,7 @@ async function loadNewQuestion() {
         console.log("Fetching new question from chapter");
         renderQuestion(question);
         setupOptionListeners(question);
+        sessionStorage.setItem('currentQuestion',JSON.stringify(question))
     });
 }
 
@@ -107,19 +115,19 @@ document.addEventListener('DOMContentLoaded', function() {
     var questionData = JSON.parse(sessionStorage.getItem('currentQuestion'));
     if (questionData) {
         renderQuestion(questionData);
-        setupOptionListeners(questionData);
+        setupOptionListeners(questionData)
     }
 });
 // function addToReviewList(question){
 //     // 紀錄章節、第幾題
 //     var chapter = JSON.parse(sessionStorage.getItem('currentChapter'));
 //     var number = question.question_number
-//     let storageObject = {
-//         chapter: chapter,
-//         number: number
-//       };
-//     window.localStorage.setItem(chapter, JSON.stringify(storageObject));
-//     console.log(localStorage.getItem(chapter));
+//     // let storageObject = {
+//     //     chapter: chapter,
+//     //     number: number
+//     //   };
+//     // window.localStorage.setItem(chapter, JSON.stringify(storageObject));
+//     console.log("現在是第",chapter,"章 ,第",number,"題");
 // }
 function loadBack() {
     // Store the question data and chapter number in session storage
