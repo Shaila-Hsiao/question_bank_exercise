@@ -14,7 +14,7 @@ git clone https://github.com/Shaila-Hsiao/question_bank_exercise/
   ```
   pip install -r requirements.txt
   ```
-## 開啟程式碼
+## step 3 開啟程式碼
 1. 輸入指令開啟 app.py
 ```
 python app.py
@@ -45,4 +45,4 @@ python app.py
 - [ ] 有返回鍵:
   - [X] 返回選擇章節頁面重新選擇章節
   - [ ] 返回上一題
-- [ ] 紀錄練習過的題目
+- [X] 紀錄練習過的題目
