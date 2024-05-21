@@ -60,4 +60,7 @@ def get_random_question_from_chapter(chapter, type):
     return random.choice(questions)  # Return a random question from the chapter
 
 if __name__ == "__main__":
-    eel.start('main.html')
+    window_width = 1000
+    window_height = 800
+    eel.start('main.html', size=(window_width, window_height), position=(350,100))
+    # eel.start('main.html')
