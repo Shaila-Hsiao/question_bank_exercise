@@ -18,9 +18,9 @@ async function loadReviewList() {
         li.innerHTML = `
             <div class="d-flex justify-content-between align-items-center">
                 <div>
-                    <strong>第${topic[1]}章, 第${topic[3]}題</strong><br>
-                    問題: ${topic[2]}<br>
-                    答案: ${topic[4]}<br>
+                <p><strong>第${topic[1]}章, 第${topic[3]}題</strong></p>
+                    <p><strong>問題:</strong> ${topic[2]}</p>
+                    <p><strong>答案: ${topic[4]}</strong></p>
                 </div>
                 <button class="btn btn-danger" onclick="deleteTopic(${topic[0]})">刪除</button>
             </div>
