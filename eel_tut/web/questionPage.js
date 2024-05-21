@@ -75,6 +75,8 @@ async function loadNewQuestion() {
     var type = JSON.parse(sessionStorage.getItem('currentType'));
     eel.get_random_question_from_chapter(chapter, type)(function(question) {
         console.log("Fetching new question from chapter");
+        $("#flexCheckChecked").prop( "checked", false );
+        // document.getElementById("flexCheckChecked").checked = false;
         renderQuestion(question);
         setupOptionListeners(question);
         sessionStorage.setItem('currentQuestion',JSON.stringify(question))
@@ -116,6 +118,8 @@ document.addEventListener('DOMContentLoaded', function() {
     if (questionData) {
         renderQuestion(questionData);
         setupOptionListeners(questionData)
+        document.getElementById("flexCheckChecked").checked = false;
+        $("#flexCheckChecked").prop( "checked", false );
     }
 });
 // function addToReviewList(question){

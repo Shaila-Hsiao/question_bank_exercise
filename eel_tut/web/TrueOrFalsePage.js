@@ -16,6 +16,7 @@ document.addEventListener('DOMContentLoaded', function() {
     if (questionData) {
         renderQuestion(questionData);
         setupOptionListeners(questionData);
+        $("#flexCheckChecked").prop( "checked", false );
     }
 });
 
@@ -123,5 +124,6 @@ async function loadNewQuestion() {
         renderQuestion(question);
         setupOptionListeners(question);
         sessionStorage.setItem('currentQuestion', JSON.stringify(question))
+        $("#flexCheckChecked").prop( "checked", false );
     });
 }
