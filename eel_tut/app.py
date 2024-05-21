@@ -47,7 +47,7 @@ def get_random_question_from_chapter(chapter, type):
     if chapter < 10:
         filename = f'chapter 0{chapter}.json'  # Add a space for chapters less than 10
     else:
-        filename = f'chapter{chapter}.json'  # No space for chapter numbers 10 and above
+        filename = f'chapter {chapter}.json'  # No space for chapter numbers 10 and above
     
     if type == "MultiSelect":
         filepath = os.path.join('Json', 'MultiSelect', filename)
