@@ -86,7 +86,7 @@ function jqSelectorEscape(selector) {
 }
 
 function setupOptionListeners(question) {
-    const radios = $('.form-check-input'); // Use jQuery to select radios
+    const radios = $('.card-body .form-check-input'); // Use jQuery to select radios
     radios.click(function() { // Use jQuery `.click()` method
         const radio = $(this); // Current radio button
         const escapedId = jqSelectorEscape(`${question.question_number}_explanation`);
