@@ -3,7 +3,9 @@ import json
 import random
 import os
 import sqlite3
+
 eel.init('web')
+
 # Connect to SQLite database
 conn = sqlite3.connect('database.db')
 c = conn.cursor()
@@ -41,6 +43,9 @@ def delete_topic(topic_id):
     c.execute('DELETE FROM review_topics WHERE id = ?', (topic_id,))
     conn.commit()
 
+# Global set to track shown questions
+shown_questions = set()
+
 @eel.expose
 def get_random_question_from_chapter(chapter, type):
     chapter = int(chapter)
@@ -57,10 +62,16 @@ def get_random_question_from_chapter(chapter, type):
     with open(filepath, 'r', encoding='utf-8') as file:
         questions = json.load(file)
     
-    return random.choice(questions)  # Return a random question from the chapter
+    available_indices = set(range(len(questions))) - shown_questions
+    if not available_indices:
+        shown_questions.clear()  # Reset shown questions if all have been shown
+        available_indices = set(range(len(questions)))
+    
+    random_index = random.choice(list(available_indices))
+    shown_questions.add(random_index)
+    return questions[random_index]  # Return a random question from the chapter
 
 if __name__ == "__main__":
     window_width = 1000
     window_height = 800
     eel.start('main.html', size=(window_width, window_height), position=(350,100))
-    # eel.start('main.html')
