@@ -15,6 +15,7 @@ git clone https://github.com/Shaila-Hsiao/question_bank_exercise/
   pip install -r requirements.txt
   ```
 ## step 3 開啟程式碼
+> 記得要到 {your url}\question_bank_exercise\eel_tut\ 資料夾下輸入指令
 - 輸入指令開啟 app.py
   ```
   python app.py
