@@ -1,11 +1,15 @@
 # question_bank_exercise
-
+## Existing Library/Software
+- python 3.11
+- 前端 : bootstrap 5.3
+- GUI: eel
+- Database: sqlite
 ## step 1 clone github
 - 把專案載入你想要放的資料夾底下，去 git bash 輸入以下指令
 ```
 git clone https://github.com/Shaila-Hsiao/question_bank_exercise/
 ```
-## step 2 安裝所需套件
+## step 2 安裝 python 所需套件
 - eel
   ```
   pip install eel
