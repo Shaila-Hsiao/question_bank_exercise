@@ -755,8 +755,8 @@
     },
     {
         "chapter": "8",
-        "question_number": "79)",
-        "description": "What is programmed learning and why is it used in organizations?\nAnswer: Programmed learning is a step-by-step self-learning method using a medium such as a\ntextbook, computer, or the Internet. The three parts of the method include presenting questions,\nfacts, and problems to the learner, allowing the person to respond, and then providing feedback\non the accuracy of answers. Programmed learning reduces training time. It also facilitates\nlearning by letting trainees learn at their own pace, get immediate feedback, and reduce their risk\nof error. Some argue that trainees do not learn much more from programmed learning than from\na textbook. Yet studies generally support programmed learning's effectiveness. In addition to the\nusual programmed learning, computerized intelligent tutoring systems learn what questions and\napproaches worked and did not work for the learner, and then adjust the instructional sequence to\nthe trainee's unique needs.\nDifficulty: Hard\nChapter: 8\nObjective: 4\nAACSB: Analytical Thinking\nLearning Outcome: 8.4 Explain how to use five training techniques.\n80) Any attempt to improve managerial performance by imparting knowledge, changing\nattitudes, or increasing skills is called ________.",
+        "question_number": "80)",
+        "description": "Any attempt to improve managerial performance by imparting knowledge, changing\nattitudes, or increasing skills is called ________.",
         "options": {
             "A": "human resource management",
             "B": "performance enhancement",
